@@ -1,0 +1,2 @@
+<img *ngIf="media && media.media_type == 'image' " src="{{media.source_url}}" />
+<img src="assets/img/placeholder.png" *ngIf="!media || media.media_type != 'image' ">

@@ -1,0 +1,73 @@
+<!--&lt;!&ndash;<div class="{{global.state['theme']}}">&ndash;&gt;-->
+<!--<ion-header class="{{global.state['theme']}}">-->
+  <!--<ion-toolbar color="primary">-->
+    <!--<ion-title>{{heading}}</ion-title>-->
+    <!--<ion-buttons start >-->
+      <!--<button ion-button (click)="dismiss()" icon-only>-->
+        <!--<ion-icon name="ios-close-circle"></ion-icon>-->
+      <!--</button>-->
+      <!--&lt;!&ndash;<button showWhen="android" ion-button icon-only (click)="dismiss()">&ndash;&gt;-->
+        <!--&lt;!&ndash;<ion-icon name="md-close" color="white"></ion-icon>&ndash;&gt;-->
+      <!--&lt;!&ndash;</button>&ndash;&gt;-->
+    <!--</ion-buttons>-->
+  <!--</ion-toolbar>-->
+<!--</ion-header>-->
+
+<!--<ion-content padding>-->
+  <!--<ion-label style="font-weight: bold; color: blue;">Country</ion-label>-->
+  <!--<ion-searchbar-->
+    <!--[(ngModel)]="queryCountry"-->
+    <!--(ionInput)="updateSearchCountry()"-->
+    <!--#searchInput>-->
+  <!--</ion-searchbar>-->
+  <!--<ion-list *ngIf="showCountryList">-->
+    <!--<ion-item *ngFor="let itemCountry of autocompleteCountries"-->
+              <!--(click)="chooseItemCountry(itemCountry)">-->
+      <!--{{ itemCountry }}-->
+    <!--</ion-item>-->
+  <!--</ion-list>-->
+
+  <!--<ion-label style="font-weight: bold; color: blue;">City</ion-label>-->
+  <!--<ion-searchbar-->
+          <!--[(ngModel)]="queryCity"-->
+          <!--(ionInput)="updateSearchCityByCountry()"-->
+          <!--#searchInput>-->
+  <!--</ion-searchbar>-->
+  <!--<ion-list *ngIf="showCityList">-->
+    <!--<ion-item *ngFor="let itemCity of autocompleteCities"-->
+              <!--(click)="chooseItemCity(itemCity)">-->
+      <!--{{ itemCity }}-->
+    <!--</ion-item>-->
+  <!--</ion-list>-->
+  <!--<button ion-button full (click)="savebtnclick()">Save</button>-->
+<!--</ion-content>-->
+<!--&lt;!&ndash;</div>&ndash;&gt;-->
+
+<ion-header class="{{global.state['theme']}}">
+  <ion-toolbar color="primary">
+    <ion-title>{{heading}}</ion-title>
+    <ion-buttons start *ngIf="showCancel">
+      <button ion-button (click)="dismiss()">
+        <span ion-text >Cancel</span>
+      </button>
+      <!--<button showWhen="android" ion-button icon-only (click)="dismiss()">-->
+      <!--<ion-icon name="md-close" color="white"></ion-icon>-->
+      <!--</button>-->
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="{{global.state['theme']}}">
+  <ion-searchbar
+          [(ngModel)]="query"
+          (ionInput)="updateSearch()"
+          #searchInput>
+  </ion-searchbar>
+  <ion-list>
+    <ion-item *ngFor="let item of autocompleteItems"
+              (click)="chooseItem(item)">
+      {{ item.description }}
+    </ion-item>
+  </ion-list>
+  <!--<button ion-button full (click)="savebtnclick()">Save</button>-->
+</ion-content>

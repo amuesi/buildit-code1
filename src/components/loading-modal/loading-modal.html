@@ -1,0 +1,20 @@
+
+
+<!--<ion-header>-->
+  <!--<ion-navbar>-->
+    <!--<ion-title>-->
+    <!--</ion-title>-->
+  <!--</ion-navbar>-->
+<!--</ion-header>-->
+
+<ion-content padding class="login">
+
+  <div class="container" [ngClass]="{'busy': isBusy}">
+    <div class="spinner">
+      <div class="backdrop"></div>
+      <p>&#9733;</p>
+    </div>
+    <p text-center="true">{{message}}</p>
+  </div>
+
+</ion-content>

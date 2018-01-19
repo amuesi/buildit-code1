@@ -1,0 +1,20 @@
+<!--suppress ALL -->
+<ion-header>
+  <ion-navbar>
+    <ion-buttons start menuToggle clear>
+      <button ion-button  clear>
+        <img src="assets/icon/menu-icon-default.png">
+      </button>
+    </ion-buttons>
+    <!--<button menuToggle>-->
+      <!--<img src="assets/icon/menu-icon-default.png">-->
+    <!--</button>-->
+    <ion-title>Current Location Weather</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <weather-list [location]="location" *ngIf="location"
+                [onInitEmitter]="onInitEmitter"
+                [onDestroyEmitter]="onDestroyEmitter"></weather-list>
+</ion-content>

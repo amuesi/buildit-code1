@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-navbar  color="primary">
+	  <button ion-button menuToggle icon-only>
+		  <img src="assets/icon/menu-icon-dark.png">
+		  <!--<ion-icon name='menu'></ion-icon>-->
+	  </button>
+      <ion-title>{{'Currency Converter' | translate}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content no-padding >
+	<!--<ion-card>-->
+		<!--<ion-item class="current-currency">-->
+			<!--<ion-avatar item-left>-->
+				<!--<img src="{{current_currency.flag}}">-->
+			<!--</ion-avatar>-->
+			<!--<h2>{{current_currency.currencyID}}</h2>-->
+			<!--&lt;!&ndash;<p>{{current_currency.name}}</p>&ndash;&gt;-->
+			<!--<input value="sdgf">-->
+		<!--</ion-item>-->
+	<!--</ion-card>-->
+	<ion-list>
+		<ion-item *ngFor="let c of currencies" class="current-currency">
+			<ion-avatar item-left>
+				<img src="{{c.flag}}">
+			</ion-avatar>
+			<h2>{{c.currencyID}}</h2>
+			<input [value]="c.rate" (blur)="valuChange(c)" [(ngModel)]="c.rate">
+		</ion-item>
+	</ion-list>
+
+	<!--<ion-select>-->
+		<!--<ion-option *ngFor="let cc of currencyList" value="{{ cc }}">-->
+			<!--<span class='flag-icon flag-icon-{{ cc.slice(0, -1) }}'></span>-->
+			<!--{{ cc }}-->
+		<!--</ion-option>-->
+	<!--</ion-select>-->
+
+</ion-content>
