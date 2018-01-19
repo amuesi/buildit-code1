@@ -87,7 +87,7 @@ export class MyApp {
     }
     this.cache.setDefaultTTL(60 * 60 * 24);
 
-    ga.startTrackerWithId("UA-88033894-2");
+    ga.startTrackerWithId("");
     ga.enableUncaughtExceptionReporting(true).then((_success) => {
       console.log("Successful enabling of uncaught exception reporting " + _success)
     }).catch((_error) => {
@@ -96,7 +96,7 @@ export class MyApp {
 
     submissions.initialiseDB();
     errorLogs.initialiseDB();
-    this.employees = new PouchDB('https://st4l3043.stwater.intra:6984/employee/');
+    this.employees = new PouchDB('');
         console.log('Employees are...');
         console.dir(this.employees);
 
