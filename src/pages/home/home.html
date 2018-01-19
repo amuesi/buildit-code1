@@ -1,0 +1,48 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title>
+            SAFETY NET <img src="assets/images/severntrentlogo.png" class="logo" />
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+
+<ion-content>
+    <ion-grid class="bottom-pad">
+        <ion-row>
+            <ion-col text-center id="safety">
+                <button (tap)="openSafetyPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSafetyPage()">Health & Safety</button>
+
+            </ion-col>
+        </ion-row>
+        <ion-row>
+            <ion-col text-center id="security">
+                <button (tap)="openSecurityPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSecurityPage()">Security</button>
+            </ion-col>
+        </ion-row>
+
+        <ion-row>
+            <ion-col text-center id="wellbeing">
+                <button (tap)="openWellBeingPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;    background-position: bottom; 
+                background-attachment: fixed;" (tap)="openWellBeingPage()">Wellbeing</button>
+            </ion-col>
+        </ion-row>
+        <ion-row>
+            <ion-col text-center id="waterquality">
+                <button (tap)="openWaterQualityPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openWaterQualityPage()">Water Quality or Environmental Hazard</button>
+            </ion-col>
+        </ion-row>
+
+        <ion-fab right bottom>
+            <button tappable ion-fab color="secondary" (click)="faqModalOpen()" class="help"><ion-icon name="ios-help-circle-outline"></ion-icon></button>
+        </ion-fab>
+    </ion-grid>
+</ion-content>

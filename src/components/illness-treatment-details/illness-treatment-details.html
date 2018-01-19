@@ -1,0 +1,216 @@
+<div [formGroup]="parent">
+    <div formGroupName="bodypartsGroup">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon name="ios-medical-outline"></ion-icon>
+                Injury/Illness & Treatment Details </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Has The Incident Resulted In a Fatality?</ion-label>
+                    <ion-select [(ngModel)]="injury" interface="popover" formControlName="injuryResultedInFatality" (ionChange)="autosave($event,'InjuryResultedInFatality', 'injuryResultedInFatality')"
+                        [disabled]="isNotEditable">
+                        <ion-option value="yes">Yes</ion-option>
+                        <ion-option value="no">No</ion-option>
+                    </ion-select>
+                </ion-item>
+
+        <!--<ion-item>-->
+        <!--<ion-label>Bodyparts Injured Multiselect: {{selectedMultibodys}}</ion-label>-->
+        <!--</ion-item>-->
+
+                <!--<ion-item>-->
+                <!--<ion-label stacked>Injury/Illness Details - select all that apply</ion-label>-->
+                <!--<ion-select interface="popover" #cmbBodyparts class="select" formControlName="bodypartsControl" block (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')" [disabled]="isNotEditable">-->
+                <!--&lt;!&ndash;<ion-select interface="popover" #cmbBodyparts class="select" formControlName="bodypartsControl" block (ionChange)="cmbBodypartsChange(cmbBodyparts.value)">&ndash;&gt;-->
+                <!--<ion-option *ngFor="let item of bodyparts; let i=index" [value]="item.value">{{item.value}}</ion-option>-->
+                <!--</ion-select>-->
+                <!--</ion-item>-->
+
+
+<!-- Latest Version -->
+                <!-- <ion-item>
+                    <button ion-button large class="btn" type="button" block color="lightgreen" (click)="MultiBodypartsOpen()">Bodyparts Injured
+                        <ion-icon class="margin-left20" ios="ios-body-outline" md="md-body"></ion-icon>
+                    </button>
+                </ion-item> -->
+
+                    <!-- <ion-list>
+                        <ion-item *ngFor="let item of selectedMultibodys">
+                                <ion-textarea formControlName="bodypartsControl" (ionChange)="autosave($event,'BodypartsControl')" let i=index [value]="item.value">{{item.Body_Part}}
+                                </ion-textarea>
+                        </ion-item>
+                    </ion-list> -->
+
+                    <!-- Working -->
+                    <!-- <ion-list>
+                        <ion-item *ngFor="let item of selectedMultibodys">
+                            <label>
+                                <span formControlName="bodypartsControl" style="display:block;line-height:28px;margin-left:30px; width:100%"  (ionChange)="autosave($event,'BodypartsControl')">{{item.Body_Part}}
+                                    <span style="margin-left: 20px">{{ item.Description }}</span>
+                                </span>
+                            </label>
+                        </ion-item>
+                    </ion-list> -->
+
+                    <ion-item>
+                        <button multiple="true" large class="btn" type="button" large block ion-button color="lightgreen" (click)="MultiBodypartsOpen()">Injury/Illness Details
+                            <ion-icon class="margin-left20" ios="ios-person-add-outline"></ion-icon>
+                        </button>
+                    </ion-item>
+                    <ion-item>
+                        <ion-label stacked>Injury/Illness Details Selected:</ion-label>
+                        <ion-textarea multiple="true" class="text-area-body" formControlName="bodypartsControl" [(ngModel)]="bodyPart" contenteditable="false" (blur)="autosave($event,'BodyPart', 'bodyPart')"
+                            [disabled]="isNotEditable"></ion-textarea>
+                    </ion-item>
+
+                <!-- <ion-item>
+                    <ion-label>Body Parts Selected</ion-label>
+                    <ion-input formControlName="BodyPart" [(ngModel)]="selectedBodyPart" (blur)="autosave($event, 'bodyPartsControl')" [disabled]="isNotEditable"></ion-input>
+                </ion-item> -->
+                <!--<ion-item>-->
+                <!--<ion-label>Bodyparts Injured Multiselect: {{selectedMultibodys}}</ion-label>-->
+                <!--</ion-item>-->
+                <!-- <ion-list>
+                    <ion-item *ngFor="let item of selectedMultibodys">
+                        <label>
+                            <span style="display:block;line-height:28px;margin-left:30px; width:100%" formControlName="bodypartsControl" block (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')">{{item.Body_Part}}
+                                <span style="margin-left: 20px">{{ item.Description }}</span>
+                            </span>
+                        </label>
+                    </ion-item>
+                </ion-list> -->
+
+                <!-- <ion-item>
+                        <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Body Parts Selected </ion-label>
+                        <ion-select multiple="true" class="select" formControlName="bodypartsControl" block (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')" [disabled]="isNotEditable">
+                            <ion-option *ngFor="let item of selectedMultibodys; let i=index" [value]="item.value">{{item.Body_Part}}  {{ item.Description }} <br></ion-option>
+                        </ion-select>
+                    </ion-item> -->
+
+
+                    <!-- <ion-list >
+
+                                <ion-select multiple="true" class="select" formControlName="bodypartsControl" block (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')" [disabled]="isNotEditable">
+                                        <ion-option *ngFor="let item of selectedMultibodys; let i=index" [value]="item.value">{{item.Body_Part}}  {{ item.Description }} <br></ion-option> -->
+
+
+                                <!-- <ion-textarea *ngFor="let item of selectedMultibodys; let i=index" block  formControlName="bodypartsControl"
+                                (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')" [value]="item.value">{{item.Body_Part}}</ion-textarea> -->
+                            <!-- <label> -->
+                                <!-- <span style="display:block;line-height:28px;margin-left:30px; width:100%" {{item.Body_Part}}
+                                    <span style="margin-left: 20px">{{ item.Description }}</span>  -->
+
+                                    <!-- <ion-textarea formControlName="bodypartsControl" block
+                                     (ionChange)="autosave($event,'BodypartsControl', 'bodypartsControl')" [value]=`${{item.Body_Part}}`>
+                                    </ion-textarea> -->
+
+
+                                <!-- </span>
+                            </label> -->
+                                <!-- </ion-select>
+                    </ion-list> -->
+
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Immediate Treatment Given</ion-label>
+                    <ion-select interface="popover" formControlName="immediateTreatmentGiven" (ionChange)="ImmediateTreatmentGiven ($event)">
+                        <ion-option *ngFor="let item of treatmentType; let i=index" [value]="item.value">{{item.Treatment}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedTreatmentGiven">
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Treatment Details</ion-label>
+                    <ion-textarea formControlName="treatmentDetails" (blur)="autosave($event,'TreatmentDetails', 'treatmentDetails')" [disabled]="isNotEditable"></ion-textarea>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>Additional Treatment Given (if applicable)</ion-label>
+                    <ion-select interface="popover" formControlName="additionalTreatmentGiven" (ionChange)="autosave($event,'AdditionalTreatmentGiven', 'additionalTreatmentGiven')">
+                        <ion-option *ngFor="let item of treatmentType; let i=index" [value]="item.value">{{item.Treatment}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item>
+                        <ion-label stacked><span class="invalidText1" style="color: red;">*</span>Has The Incident Resulted In Lost Time?</ion-label>
+                        <ion-select interface="popover" formControlName="incidentResultedInLostTime"
+                            (ionChange)="IncidentResultedInLostTime ($event)">
+                            <ion-option *ngFor="let item of incidentResultedInLostTimes; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                        </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedIncidentResultedInLostTime">
+                    <ion-label>
+                        <span class="invalidText1" style="color: red;">*</span> Date Absense Started</ion-label>
+                    <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateAbsenceStarted', 'dateAbsenceStarted')"
+                        [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                </ion-item>
+
+                <ion-item *ngIf="selectedIncidentResultedInLostTime">
+                    <ion-label stacked>Return to Work Date</ion-label>
+                    <ion-input placeholder="Please enter a Date Format e.g. 01/01/2018"></ion-input>
+                    <!-- <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'ReturnToWork', 'returnToWork')"
+                        [disabled]="isNotEditable" [min]="maxDate" placeholder="00/00/0000"></ion-datetime>-->
+                </ion-item>
+
+
+                <ion-item *ngIf="selectedIncidentResultedInLostTime">
+                    <ion-label stacked>
+                        Additional Time Lost (days)</ion-label>
+                    <ion-input type="text" formControlName="additionalTime" (blur)="autosave($event,'AdditionalTime', 'additionalTime')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item *ngIf="selectedIncidentResultedInLostTime">
+                    <ion-label stacked>
+                        Additional Time Lost - Comments</ion-label>
+                    <ion-textarea type="text" formControlName="additionalTimeComments" (blur)="autosave($event,'AdditionalTimeComments', 'additionalTimeComments')" [disabled]="isNotEditable"></ion-textarea>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span>Has The Incident Resulted In Restricted Duties?</ion-label>
+                    <ion-select interface="popover" formControlName="incidentResultedInRestrictedDuties"
+                        (ionChange)="IncidentResultedInRestrictedDuties ($event)">
+                        <ion-option *ngFor="let item of incidentResultedInRestrictedDutieses; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedIncidentResultedInRestrictedDuties">
+                        <ion-label>
+                            <span class="invalidText1" style="color: red;">*</span> Date Restricted Duties Started</ion-label>
+                        <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateRestrictedDuties', 'date')"
+                            [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                    </ion-item>
+
+                    <!-- <ion-item>
+                        <ion-label><span class="invalidText1" style="color: red;">*</span> Date</ion-label>
+                        <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateOfOccurence', 'date')" [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                        <ion-icon name="ios-calendar-outline" item-left primary></ion-icon>
+                    </ion-item> -->
+    
+                    <ion-item *ngIf="selectedIncidentResultedInRestrictedDuties">
+                        <ion-label stacked>Return to Normal Duties</ion-label>
+                        <ion-input placeholder="Please enter a Date Format e.g. 01/01/2018"></ion-input>
+                        <!-- <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'ReturnToNormal', 'returnToNormal')"
+                            [disabled]="isNotEditable" [max]="maxDate"></ion-datetime> -->
+                    </ion-item>
+    
+    
+                    <ion-item *ngIf="selectedIncidentResultedInRestrictedDuties">
+                        <ion-label stacked>
+                            Additional Restricted Duties (days)</ion-label>
+                        <ion-input type="text" formControlName="additionalRestricted" (blur)="autosave($event,'AdditionalRestricted', 'additionalRestricted')" [disabled]="isNotEditable"></ion-input>
+                    </ion-item>
+    
+                    <ion-item *ngIf="selectedIncidentResultedInRestrictedDuties">
+                        <ion-label stacked>
+                            Additional Restricted Duties - Comments</ion-label>
+                        <ion-textarea type="text" formControlName="additionalRestrictedComments" (blur)="autosave($event,'AdditionalRestrictedComments', 'additionalRestrictedComments')" [disabled]="isNotEditable"></ion-textarea>
+                    </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

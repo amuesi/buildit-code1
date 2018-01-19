@@ -1,0 +1,50 @@
+<div [formGroup]="parent">
+    <div formGroupName="whoAreYou">
+        <ion-card class="card-content">
+            <ion-card-header>
+        <ion-icon ios="ios-contact" md="md-contact"></ion-icon> Who Are You (Reporter)
+    </ion-card-header>
+    <ion-card-content>
+        <ion-list *ngIf="employee" class="user-details"> 
+            <!-- needed to get rid value assessor error -->
+            <div>
+
+                <!-- <div> -->
+                <!-- <ion-label><h3><span class="invalidText1" style="color: red;">*</span>Employee Status</h3></ion-label>
+                <ion-select multiple="true" class="select" formControlName="status" block *ngIf='!employeeNotOnList'>
+                    <ion-option *ngFor="let item of StatusTypes; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                </ion-select> -->
+                <!-- </div> -->
+
+                <!-- <div>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Reporters Name</ion-label>
+                    <p formControlName="reportersName" (ionChange)="autosave($event,'ReporterName', 'reportersName')" [disabled]="isNotEditable" ngDefaultControl>{{employee['Employee Number']}}</p> -->
+                    <!-- <p formControlName="reportersName" (blur)="autosave($event,'ReporterName', 'reportersName')" [disabled]="isNotEditable">Tom Burton</p> -->
+                <!-- </div> -->
+
+              <div>    
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Reporters Name</ion-label>
+                <p formControlName="reportersName" (blur)="autosave($event,'ReporterName', 'reportersName')" [disabled]="isNotEditable" ngDefaultControl>{{employee['Employee Number']}}</p>
+            </div>
+
+            <div>
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span>Team Name</ion-label>
+                <p formControlName="teamName" (blur)="autosave($event,'TeamName', 'teamName')" [disabled]="isNotEditable" ngDefaultControl>{{employee['Unit Number']}}</p>
+                <!-- <p formControlName="teamName" (blur)="autosave($event,'TeamName', 'teamName')" [disabled]="isNotEditable"> CU IS Plan - IRD Digital</p> -->
+            </div>
+
+            <div *ngIf="isNotVisible">
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Employee Email</ion-label>
+                <p formControlName="employeeEmail" (ionChange)="autosave($event,'EmployeeEmail', 'employeeEmail')" [disabled]="isNotEditable" ngDefaultControl>{{employee['Employee Email']}}</p>
+                <!-- <p formControlName="employeeEmail" (blur)="autosave($event,'EmployeeEmail', 'employeeEmail')" [disabled]="isNotEditable">tom.burton@severntrent.co.uk</p> -->
+            </div>
+
+            <div *ngIf="isNotVisible">
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Employee Number</ion-label>
+                <p formControlName="employeeNumber" (ionChange)="autosave($event,'EmployeeNumber', 'employeeNumber')" [disabled]="isNotEditable" ngDefaultControl>{{employee['Employee Number']}}</p>
+                <!-- <p formControlName="employeeEmail" (blur)="autosave($event,'EmployeeEmail', 'employeeEmail')" [disabled]="isNotEditable">09310026</p> -->
+            </div>
+            </div>
+        </ion-list>
+    </ion-card-content>
+</ion-card>

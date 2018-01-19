@@ -1,0 +1,129 @@
+<div [formGroup]="parent">
+    <div formGroupName="whereAndWhen">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-compass-outline" md="md-compass"></ion-icon>
+                Where and When
+            </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label><span class="invalidText1" style="color: red;">*</span> Date</ion-label>
+                    <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateOfOccurence', 'date')" [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                    <ion-icon name="ios-calendar-outline" item-left primary></ion-icon>
+                </ion-item>
+
+
+
+                <ion-item>
+                    <ion-label><span class="invalidText1" style="color: red;">*</span> Time Of Occurrence</ion-label>
+                    <ion-datetime displayFormat="HH:mm" pickerFormat="H mm" formControlName="time" (ionChange)="autosave($event,'TimeOfOccurence', 'time')" [disabled]="isNotEditable"></ion-datetime>
+                    <ion-icon name="ios-clock-outline" item-left primary></ion-icon>
+                </ion-item>
+                <ion-item class="invalid">
+                        <h4 class="importantText">
+                            Please enter the time the Incident Occurred    
+                        </h4>
+                    </ion-item>
+    
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Location Type: </ion-label><span class="invalidText">* </span>
+                    <ion-select interface="popover" class="select" formControlName="locationType" block (ionChange)="locationTypeChange($event)" [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of locationType; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>Location
+                    </ion-label>
+
+                </ion-item>
+
+                <ion-item *ngIf="selectedLocationTypeSTW">
+                    <button type="button" icon-left large block ion-button class="darkblue-btn" (click)="floclocationSTWModalOpen()">STW locations   <ion-icon class="margin-left20"  ios="ios-navigate-outline" md="md-navigate"></ion-icon>
+          </button>
+                </ion-item>
+
+
+
+                <ion-item *ngIf="selectedLocationTypeSTS">
+                    <button type="button" icon-left large class="blue-btn" block ion-button color="light" (click)="floclocationSTSModalOpen()">STS locations   <ion-icon class="margin-left20" ios="ios-navigate-outline" md="md-navigate"></ion-icon>
+          </button>
+                </ion-item>
+
+
+                <ion-item>
+                    <ion-label stacked>Precise location</ion-label>
+                    <ion-input formControlName="preciseLocation" (blur)="autosave($event,'PreciseLocation', 'preciseLocation')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item text-center *ngIf="selectedLocationTypeOther">
+                    <button type="button" icon-left large class="flocModalButton map-icon" type="button" ion-button (click)="goMap()" block><ion-icon name="ios-map-outline" class="map"></ion-icon> View Map</button>
+                </ion-item>
+
+                <ion-item text-center *ngIf="isOffline">
+                    <button type="button" icon-left large class="flocModalButton map-icon" type="button" ion-button (click)="offlineButtonClick()" block><ion-icon name="ios-map-outline" class="map"></ion-icon> Offline</button>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label>Address:</ion-label>
+                    <ion-input formControlName="Address" [(ngModel)]="selectedAddress" (blur)="autosave($event,'Location', 'Address')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label><span class="invalidText1" style="color: red;">*</span> Coordinate:</ion-label>
+                    <ion-input formControlName="Coordinate" [(ngModel)]="selected_coordinate" (ngModelChange)="autosave_address_location($event,'XYCoordinate', 'Coordinate')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Smart Water Site?</ion-label>
+                    <ion-select class="select" formControlName="smartWaterSite" block [disabled]="isNotEditable">
+                      <ion-option *ngFor="let item of smartWaterSite; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                  </ion-item>
+
+                  <ion-item>
+                        <ion-label>Tick if specific Date or Time of Occurrence is not known</ion-label>
+                        <ion-checkbox class="select" formControlName="tickDateAndTime" (click)="TickDateAndTime()" [disabled]="isNotEditable"></ion-checkbox>
+                      </ion-item>
+
+
+                  <ion-item *ngIf="selectedDateAndTime">
+                    <ion-label><span class="invalidText1" style="color: red;">*</span> Date Incident Happened Between - To</ion-label>
+                    <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateOfIncident', 'date')" [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                    <ion-icon name="ios-calendar-outline" item-left primary></ion-icon>
+                </ion-item>
+
+                <ion-item *ngIf="selectedDateAndTime">
+                        <ion-label><span class="invalidText1" style="color: red;">*</span> Date Incident Happened Between - From</ion-label>
+                        <ion-datetime displayFormat="DD/MM/YYYY" pickerFormat="DD/MM/YYYY" formControlName="date" (ionChange)="autosave($event,'DateOfIncident', 'date')" [disabled]="isNotEditable" [max]="maxDate"></ion-datetime>
+                        <ion-icon name="ios-calendar-outline" item-left primary></ion-icon>
+                    </ion-item>
+
+
+
+                <ion-item *ngIf="selectedDateAndTime">
+                    <ion-label>Time Incident Happened Between - To</ion-label>
+                    <ion-datetime displayFormat="HH:mm" pickerFormat="H mm" formControlName="time" (ionChange)="autosave($event,'TimeIncidentHappened', 'time')" [disabled]="isNotEditable"></ion-datetime>
+                    <ion-icon name="ios-clock-outline" item-left primary></ion-icon>
+                </ion-item>
+
+                <ion-item *ngIf="selectedDateAndTime">
+                        <ion-label>Time Incident Happened Between - From</ion-label>
+                        <ion-datetime displayFormat="HH:mm" pickerFormat="H mm" formControlName="time" (ionChange)="autosave($event,'TimeIncidentHappened', 'time')" [disabled]="isNotEditable"></ion-datetime>
+                        <ion-icon name="ios-clock-outline" item-left primary></ion-icon>
+                    </ion-item>
+                <!-- Other Locations -->
+
+                <!--<ion-item-group *ngIf="selectedLocationTypeOther">-->
+
+
+
+
+
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

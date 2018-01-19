@@ -1,0 +1,38 @@
+[
+    {
+  "index": "1",
+  "value": "Damage to building/structure"
+  },
+  {
+  "index": "2",
+  "value": "Damage to lifting equipment"
+  },
+  {
+  "index": "3",
+  "value": "Damage to mobile plant/vehicle"
+  },
+  {
+  "index": "4",
+  "value": "Damage to plant"
+  },
+  {
+  "index": "5",
+  "value": "Damage to PPE"
+  },
+  {
+  "index": "6",
+  "value": "Damage to pressure systems"
+  },
+  {
+  "index": "7",
+  "value": "Damage to scaffolding"
+  },
+  {
+  "index": "8",
+  "value": "Damage to utilities"
+  },
+  {
+  "index": "9",
+  "value": "Damage to work equipment"
+  }
+]

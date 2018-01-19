@@ -1,0 +1,83 @@
+<ion-header>
+
+    <ion-navbar color="light">
+        <ion-title>FAQS</ion-title>
+        <ion-buttons end id="lbl_loc" large>
+            <a (click)="dismissSafetyModal()">
+                <ion-icon icon-only name="ios-close-circle-outline"></ion-icon>
+            </a>
+        </ion-buttons>
+    </ion-navbar>
+
+</ion-header>
+
+
+
+
+
+
+
+<ion-slides pager>
+
+    <ion-slide style="background-color: #f8f8f8" padding>
+
+        <ion-card>
+            <ion-card-header>
+                <h1>Incident</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="safety-icon" src="assets/images/safety-incident-icon.png" /> An event which has caused injury or illness, or has caused some damage to items, property or vehicles and had the potential to cause injury or illness.
+            </ion-card-content>
+
+        </ion-card>
+
+
+
+
+
+    </ion-slide>
+
+    <ion-slide style="background-color: ghostwhite" padding>
+
+        <ion-card>
+            <ion-card-header>
+                <h1>Hazard</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="safety-icon" src="assets/images/safety-hazard-icon.png" /> Nothing has ‘happened’ but you are aware of a situation that has the potential to cause an incident.
+            </ion-card-content>
+
+        </ion-card>
+
+    </ion-slide>
+
+    <ion-slide style="background-color: gainsboro" padding>
+        <ion-card>
+            <ion-card-header>
+                <h1>Positive Behaviour</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="safety-icon" src="assets/images/positive-behaviour-icon.png" /> Nothing has ‘happened’ but you are aware of or have seen an example of a positive behaviour or a great working practice.
+            </ion-card-content>
+        </ion-card>
+    </ion-slide>
+
+
+    <ion-slide style="background-color: gainsboro" padding>
+        <ion-card>
+            <ion-card-header>
+                <h1>Unsafe Behaviour</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="safety-icon" src="assets/images/Cross.png" /> Nothing has ‘happened’ but you are aware of or have seen an example of an unsafe behaviour that has the potential to cause an incident.
+            </ion-card-content>
+        </ion-card>
+    </ion-slide>
+
+
+
+</ion-slides>

@@ -1,0 +1,30 @@
+[
+  {
+   "index":"1",
+    "value":"Dangerous Occurrence"
+  },
+  {
+    "index":"2",
+    "value":"Hazard"
+  },
+  {
+    "index":"3",
+    "value":"Injury"
+  },
+  {
+    "index":"4",
+    "value":"Near Miss"
+  },
+  {
+    "index":"5",
+    "value":"Occupational Illness"
+  },
+  {
+    "index":"6",
+    "value":"Safe Act"
+  },
+  {
+    "index":"7",
+    "value":"Security"
+  }
+]

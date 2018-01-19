@@ -1,0 +1,21 @@
+<div [formGroup]="parent">
+    <div formGroupName="furtherInformation">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-create-outline"></ion-icon>
+                STW/STS Standards
+            </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Which Standard Is Most Applicable?</ion-label>
+                    <ion-select class="select" formControlName="consideredTheFollowing" block (ionChange)="autosave($event,'MostApplicable', 'consideredTheFollowing')" [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of StandardType; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

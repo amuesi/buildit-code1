@@ -1,30 +1,46 @@
 <ion-header>
-	<ion-navbar  color="primary">
-		<button ion-button menuToggle>
-			<img src="assets/icon/menu-icon-dark.png">
-		  <!--<ion-icon name="menu"></ion-icon>-->
-		</button>
-		<ion-title>Profiles</ion-title>
-	</ion-navbar>
-</ion-header>
-<!--<ion-menu [content]="profilecontent" id="menu-profile">
-
-	<ion-content>
-		<ion-list>
-			<button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
-        {{item.title}}
-      </button>
-		</ion-list>
-	</ion-content>
-
-</ion-menu>
-
-<ion-nav [root]="root" #profilecontent swipeBackEnabled="false"></ion-nav>-->
-
-<ion-content>
-	<ion-list>
-		<button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
-      {{item.title}}
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
     </button>
-	</ion-list>
+        <ion-title>
+            Profile
+        </ion-title>
+
+    </ion-navbar>
+</ion-header>
+
+
+
+<ion-content padding>
+    <ion-list *ngIf="employee" class="user-details">
+        <ion-item id="img-holder">
+            <!-- <img src="data:image/png;base64,{{colleagueDetails.Picture}}" /> -->
+            <!--<img [src]="getPicture(colleague.Picture)" />-->
+        </ion-item>
+        <ion-item>
+            <h2>Name</h2>
+            <!-- <p>Tom Burton</p> -->
+            <p>{{employee['First Name']}} {{employee['Surname']}}</p>
+            <!-- <p>{{FirstName}} {{LastName}}</p> -->
+        </ion-item>
+        <ion-item>
+            <h2>Email Address</h2>
+            <!-- <p>tom.burton@severntrent.co.uk</p> -->
+            <p>{{employee['Work Email Address']}}</p>
+        </ion-item>
+
+        <ion-item>
+            <h2>Department</h2>
+            <!-- <p>CU IS Plan - IRD Digital</p> -->
+            <p>{{employee['Unit']}}</p>
+        </ion-item>
+
+        <ion-item>
+            <h2>Managers Name</h2>
+            <!-- <p>Rob Ryder</p> -->
+            <p>{{employee['Manager Name']}}</p>
+        </ion-item>
+
+    </ion-list>
 </ion-content>

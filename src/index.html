@@ -2,59 +2,47 @@
 <html lang="en" dir="ltr">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Ionic Framework App</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="format-detection" content="telephone=no">
-  <meta name="msapplication-tap-highlight" content="no">
+    <meta charset="UTF-8">
+    <title>Ionic App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
 
-  <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#4e8ef7">
-  <!--&lt;!&ndash; Google Tag Manager &ndash;&gt;-->
-  <!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':-->
-      <!--new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],-->
-      <!--j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=-->
-      <!--'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);-->
-  <!--})(window,document,'script','dataLayer','GTM-N4QQC63');</script>-->
-  <!--&lt;!&ndash; End Google Tag Manager &ndash;&gt;-->
+    <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4e8ef7">
 
-  <!-- cordova.js required for cordova apps -->
-  <script src="cordova.js"></script>
 
-  <!-- un-comment this code to enable service worker
+    <!-- cordova.js required for cordova apps -->
+    <script src="cordova.js"></script>
+
+    <!-- un-comment this code to enable service worker
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('service-worker.js')
         .then(() => console.log('service worker installed'))
-        .catch(err => console.log('Error', err));
+        .catch(err => console.error('Error', err));
     }
   </script>-->
-
-  <link href="build/main.css" rel="stylesheet">
+    <!--<link href="assets/css/esri.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://js.arcgis.com/3.19/esri/css/esri.css">
+    <link href="build/main.css" rel="stylesheet">
 
 </head>
+
 <body>
-  <!--&lt;!&ndash; Google Tag Manager (noscript) &ndash;&gt;-->
-  <!--<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4QQC63"-->
-                    <!--height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
-  <!--&lt;!&ndash; End Google Tag Manager (noscript) &ndash;&gt;-->
 
-  <!-- Ionic's root component and where the app will load -->
-  <ion-app></ion-app>
+    <!-- Ionic's root component and where the app will load -->
+    <ion-app></ion-app>
 
-  <!-- The polyfills js is generated during the build process -->
-  <script src="build/polyfills.js"></script>
+    <!-- The polyfills js is generated during the build process -->
+    <script src="build/polyfills.js"></script>
 
-  <!-- -->
-  <script src="build/vendor.js"></script>
+    <script src="build/vendor.js"></script>
 
-  <!-- The bundle js is generated during the build process -->
-  <script src="build/main.js"></script>
-  <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBchbwSSFJnKIAhH2HNgz8_SpzrZoUrqh0"></script>-->
-  <!--<script src="assets/google.maps.service.js?key=AIzaSyA9mkNkQqlRrQyTkXlJ-nzSkXy2FIoQdkE"></script>-->
-  <script src="http://maps.google.com/maps/api/js?key=AIzaSyA9mkNkQqlRrQyTkXlJ-nzSkXy2FIoQdkE&libraries=places"></script>
-  <!--<script-->
+    <!-- The bundle js is generated during the build process -->
+    <script src="build/main.js"></script>
 
 </body>
+
 </html>

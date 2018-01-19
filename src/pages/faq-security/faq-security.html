@@ -1,0 +1,77 @@
+<ion-header>
+
+    <ion-navbar color="light">
+        <ion-title>FAQS</ion-title>
+        <ion-buttons end id="lbl_loc" large>
+            <a (click)="dismissModal()">
+                <ion-icon icon-only name="ios-close-circle-outline"></ion-icon>
+            </a>
+        </ion-buttons>
+    </ion-navbar>
+
+</ion-header>
+
+
+
+
+
+
+
+<ion-slides pager>
+
+    <ion-slide style="background-color: #f8f8f8" padding>
+
+        <ion-card>
+            <ion-card-header>
+                <h1>Security Incident</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="submission-icon" src="assets/images/Security Incident Icon.png" /> A security related event that has had a detrimental impact on customers, colleagues or the company (including its contract partners).<br>
+                <br>Loss of company IT equipment such as mobile phones, tablets and laptops must be reported to the IS Service Desk immediately to allow appropriate remediation to take place (024 7771 6787).
+            </ion-card-content>
+
+        </ion-card>
+
+
+
+
+
+    </ion-slide>
+
+    <ion-slide style="background-color: ghostwhite" padding>
+
+        <ion-card>
+            <ion-card-header>
+                <h1>Security Non-Compliance</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="submission-icon" src="assets/images/Security-Non-Compliance-icon.png" /> A security related event that hasn’t resulted in a security incident but known to be non-compliant with our security policies e.g. forgotten or not displaying
+                a security pass, tailgating etc.<br>
+                <br>Loss of company IT equipment such as mobile phones, tablets and laptops must be reported to the IS Service Desk immediately to allow appropriate remediation to take place (024 7771 6787).
+            </ion-card-content>
+
+        </ion-card>
+
+    </ion-slide>
+
+    <ion-slide style="background-color: gainsboro" padding>
+
+
+        <ion-card>
+            <ion-card-header>
+                <h1>Security Good Practice</h1>
+            </ion-card-header>
+
+            <ion-card-content>
+                <img class="submission-icon" src="assets/images/Security Good Practice Icon.png" /> An action that has demonstrated a positive security practice.
+            </ion-card-content>
+
+        </ion-card>
+
+
+
+    </ion-slide>
+
+</ion-slides>

@@ -1,0 +1,37 @@
+[
+  {
+    "id":"1",
+    "Treatment":"First Aid",
+    "TreatmentDetailsRequired":"Yes"
+  },
+  {
+    "id":"2",
+    "Treatment":"GP / walk-in centre",
+    "TreatmentDetailsRequired":"Yes"
+  },
+  {
+    "id":"3",
+    "Treatment":"No treatment",
+    "TreatmentDetailsRequired":"No"
+  },
+  {
+    "id":"4",
+    "Treatment":"On-Site Paramedic",
+    "TreatmentDetailsRequired":"Yes"
+  },
+  {
+    "id":"5",
+    "Treatment":"Sent to hospital (for treatment)",
+    "TreatmentDetailsRequired":"Yes"
+  },
+  {
+    "id":"6",
+    "Treatment":"Sent to hospital (precautionary)",
+    "TreatmentDetailsRequired":"Yes"
+  },
+  {
+    "id":"7",
+    "Treatment":"Treatment Declined",
+    "TreatmentDetailsRequired":"No"
+  }
+]

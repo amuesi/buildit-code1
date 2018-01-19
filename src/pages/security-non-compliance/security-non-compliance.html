@@ -1,0 +1,82 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <ion-buttons start>
+            <button ion-button icon-only (click)="goHome()">
+                <ion-icon name="ios-home"></ion-icon>
+            </button>
+        </ion-buttons>
+        <ion-title>
+            Security Non Compliance
+        </ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="presentPopover($event)">
+                <ion-icon name="more"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <span class="form-title"> Please complete the form below</span>
+    <p *ngIf="submitAttempt" style="color: #ea6153;">Please fill out all details accurately.</p>
+
+    <div class="cssload-circle" *ngIf="isBusy">
+        <div class="cssload-up">
+            <div class="cssload-innera"></div>
+        </div>
+        <div class="cssload-down">
+            <div class="cssload-innerb"></div>
+        </div>
+    </div>
+
+    <form [formGroup]="form" (ngSubmit)="onSubmit()" *ngIf="!isBusy">
+
+        <!--components start-->
+
+        <div class="form-component">
+            <reference-number [parent]="form" [referenceNum]="referenceNumber">
+            </reference-number>
+        </div>
+
+
+        <div class="form-component">
+            <who-are-you [parent]="form"></who-are-you>
+        </div>
+
+
+        <div class="form-component">
+            <what-happened-security [parent]="form" [form_name]="formName" [isNotEditable]="isSaveSubmit" [isVisible]="isVisible"></what-happened-security>
+        </div>
+
+        <div class="form-component">
+            <where-and-when-security-non-compliance [parent]="form" [isNotEditable]="isSaveSubmit">
+            </where-and-when-security-non-compliance>
+        </div>
+
+        <div class="form-component">
+            <image [parent]="form" [submissionImage1]="image1" [submissionImage2]="image2" [submissionImage3]="image3" [submissionImage4]="image4"
+                [cat]="category">
+            </image>
+        </div>
+
+
+        <div class="form-component">
+            <immediate-corrective-action-security-non-compliance [parent]="form" [isNotEditable]="isSaveSubmit">
+            </immediate-corrective-action-security-non-compliance>
+        </div>
+
+        <!--buttons-->
+        <div class="incident__buttons">
+            <button (click)="saveSubmission($event)" type="button" class="save" ion-button *ngIf="!isSaveSubmit">
+                <ion-icon ios="ios-archive" md="md-archive"></ion-icon>
+                Save
+            </button>
+
+            <button type="submit" [disabled]="!form.valid" class="submit" ion-button (click)="submitFunction($event)" *ngIf="!isSaveSubmit">
+                <ion-icon ios="ios-send" md="md-send"></ion-icon>
+                Save & SUBMIT
+            </button>
+        </div>
+    </form>
+
+</ion-content>

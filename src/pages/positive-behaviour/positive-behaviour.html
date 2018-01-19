@@ -1,0 +1,93 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <ion-buttons start>
+            <button ion-button icon-only (click)="goHome()">
+          <ion-icon name="ios-home"></ion-icon>
+        </button>
+        </ion-buttons>
+        <ion-title>
+            Positive Behaviour </ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="presentPopover($event)">
+        <ion-icon name="more"></ion-icon>
+      </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+
+
+    <span class="form-title"> Please complete the form below</span>
+    <p *ngIf="submitAttempt" style="color: #ea6153;">Please fill out all details accurately.</p>
+
+    <div class="cssload-circle" *ngIf="isBusy">
+        <div class="cssload-up">
+            <div class="cssload-innera"></div>
+        </div>
+        <div class="cssload-down">
+            <div class="cssload-innerb"></div>
+        </div>
+    </div>
+
+    <form [formGroup]="form" (ngSubmit)="onSubmit()" *ngIf="!isBusy">
+
+
+        <!--components start-->
+
+
+
+
+        <div class="form-component">
+            <reference-number [parent]="form" [referenceNum]="referenceNumber">
+            </reference-number>
+        </div>
+
+
+        <div class="form-component">
+            <who-are-you [parent]="form" [isNotEditable]="isSaveSubmit"></who-are-you>
+        </div>
+
+        <div class="form-component">
+            <what-happened-positive-behaviour [parent]="form" [isNotEditable]="isSaveSubmit"></what-happened-positive-behaviour>
+        </div>
+
+        <div class="form-component">
+            <where-and-when-behaviour [parent]="form" [isNotEditable]="isSaveSubmit">
+            </where-and-when-behaviour>
+        </div>
+
+
+
+
+
+
+
+        <div class="form-component">
+            <immediate-corrective-actions-behaviour [parent]="form" [isNotEditable]="isSaveSubmit">
+            </immediate-corrective-actions-behaviour>
+        </div>
+
+        <div class="form-component">
+            <standards-behaviour [parent]="form" [isNotEditable]="isSaveSubmit">
+            </standards-behaviour>
+        </div>
+
+
+        <!--buttons-->
+        <div class="incident__buttons">
+            <button (click)="saveSubmission($event)" type="button" class="save" ion-button *ngIf="!isSaveSubmit">
+      <ion-icon ios="ios-archive" md="md-archive"></ion-icon>
+      Save
+    </button>
+
+    <button  type="submit" [disabled]="!form.valid" class="submit" ion-button (click)="submitFunction($event)" *ngIf="!isSaveSubmit">
+        <ion-icon ios="ios-send" md="md-send"></ion-icon>
+        Save & SUBMIT
+      </button>
+            </div>
+
+    </form>
+
+</ion-content>

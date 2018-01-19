@@ -1,0 +1,43 @@
+<ion-header>
+
+    <ion-navbar>
+        <ion-title>Employees</ion-title>
+        <ion-buttons end id="lbl_loc">
+            <a (click)="goBack()">
+                <ion-icon icon-only name="ios-close-circle-outline"></ion-icon>
+            </a>
+        </ion-buttons>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+    <ion-item-group>
+        <ion-item>
+            <ion-searchbar showCancelButton="true" animated="true" (ionBlur)="onBlur()" [(ngModel)]="searchTerm" [debounce]="700" placeholder="Search..." (ionInput)="searchFlocLocations($event)" (ionClear)="onClear()" (ionCancel)="onCancel()" (ionFocus)="onFocus()"
+                [ngModelOptions]="{standalone: true}">
+            </ion-searchbar>
+
+            <div id="map"></div>
+            <div *ngIf="searching" class="spinner-container" text-center>
+                <ion-spinner></ion-spinner>
+            </div>
+            <!--<ion-list [virtualScroll]="items" bufferRatio="20">-->
+            <!--<button class="locationButton"  ion-item *virtualItem="let item" (click)="selectLocation(item)">-->
+            <!--{{ item.Description }}-->
+            <!--</button>-->
+            <!--</ion-list>-->
+            <ion-list>
+                <button class="locationButton" ion-item *ngFor="let item of items" (click)="selectLocation(item)">
+          {{ item.FirstName }} {{item.Surname}}
+        </button>
+            </ion-list>
+            <ion-infinite-scroll (ionInfinite)="doInfinite($event)">
+                <ion-infinite-scroll-content></ion-infinite-scroll-content>
+            </ion-infinite-scroll>
+        </ion-item>
+    </ion-item-group>
+
+</ion-content>

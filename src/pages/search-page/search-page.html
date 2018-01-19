@@ -1,0 +1,61 @@
+<ion-header>
+
+    <ion-navbar>
+        <ion-title>Body Parts</ion-title>
+        <ion-buttons end id="lbl_loc">
+            <a (click)="dismissModal(data)">
+                <ion-icon icon-only name="ios-close-circle-outline"></ion-icon>
+            </a>
+        </ion-buttons>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+    <!--<button ion-button item-right> Done</button>-->
+    <ion-item-group>
+
+        <ion-item>
+            <div>
+                <ion-searchbar showCancelButton="true" animated="true" (ionBlur)="onBlur()" [(ngModel)]="searchTerm" [debounce]="700" placeholder="Search..." (ionInput)="searchFlocLocations($event)" (ionClear)="onClear()" (ionCancel)="onCancel()" (ionFocus)="onFocus()"
+                    [ngModelOptions]="{standalone: true}" style="float: left">
+                </ion-searchbar>
+                <button ion-button style="float: right" (click)="closeDlg()"> Done </button>
+            </div>
+
+
+            <div *ngIf="searching" class="spinner-container" text-center>
+                <ion-spinner></ion-spinner>
+            </div>
+
+            <ion-list>
+                <ion-item *ngFor="let item of items">
+                    <label class="checkbox ">
+                        <input type="checkbox" (click)="selectLocation($event, item)" ng-model="item.checked" style="display:block;float:left; width:20px; height:20px; ">
+                        <span style="display:block;line-height:28px;margin-left:30px; width:100%">{{item.Body_Part}} <span style="margin-left: 20px">{{ item.Description }}</span></span>
+                    </label>
+                </ion-item>
+
+            </ion-list>
+
+
+            <!--<ion-list>-->
+            <!--<button class="locationButton" ion-item *ngFor="let item of items" (click)="selectLocation(item)">-->
+            <!--{{ item.Description }}-->
+            <!--</button>-->
+            <!--</ion-list>-->
+
+
+            <!--<ion-select multiple>-->
+            <!--<ion-option *ngFor="let item of items" [value] = "item.Description">{{item.Description}}</ion-option>-->
+            <!--</ion-select>-->
+            <ion-infinite-scroll (ionInfinite)="doInfinite($event)">
+                <ion-infinite-scroll-content></ion-infinite-scroll-content>
+            </ion-infinite-scroll>
+        </ion-item>
+
+
+    </ion-item-group>
+
+</ion-content>

@@ -1,0 +1,25 @@
+<div [formGroup]="parent">
+    <div formGroupName="immediatediateCorrectiveAction">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-contract" md="md-contract"></ion-icon>
+                Immediate Corrective Actions taken </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>Immediate Corrective Actions Taken</ion-label>
+                    <ion-textarea formControlName="correctiveActionTakenControl" (blur)="autosave($event,'ActionTaken', 'correctiveActionTakenControl')"
+                        [disabled]="isNotEditable"></ion-textarea>
+                </ion-item>
+
+                <!-- <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Action Required</ion-label>
+                    <ion-textarea formControlName="actionsRequired" (blur)="autosave($event,'ActionRequired', 'actionsRequired')" [disabled]="isNotEditable"></ion-textarea>
+                </ion-item> -->
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

@@ -1,0 +1,76 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappened">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help" md="md-help"></ion-icon>
+                What Happened?
+            </ion-card-header>
+            <ion-card-content>
+
+              <ion-item>
+                  <ion-label stacked><span class="invalidText1" style="color: red;">*</span> What Was The Type Of Security Concern?</ion-label>
+                  <ion-select interface="popover" class="select" formControlName="securityCategory" block (ionChange)="securityTypeCategoryChange($event)"
+                      [disabled]="isNotEditable">
+                      <ion-option *ngFor="let item of securityType; let i=id" [value]="item.Value">{{item.value}}</ion-option>
+                  </ion-select>
+              </ion-item>
+
+
+              <ion-item>
+                  <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Please Choose the Exact Secruity Concern</ion-label>
+                  <ion-select interface="popover" class="select" formControlName="securityCategory" block (ionChange)="autosave($event,'SecurityConcern', 'securityCategoryType')" [disabled]="isNotEditable">
+                      <ion-option *ngFor="let item of securitySubType; let i=id" [value]="item.IncidentType">{{item.IncidentType}}</ion-option>
+                  </ion-select>
+              </ion-item>
+
+              <ion-item *ngIf="isVisible">
+                <ion-label stacked>Reported to Police?</ion-label>
+                <ion-select interface="popover" formControlName="reportedToPolice" (ionChange)="ReportedToPolice ($event)" [disabled]="isNotEditable">
+                    <ion-option *ngFor="let item of reportedToPolice; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                </ion-select>
+              </ion-item>
+
+              <ion-item *ngIf="selectedReportedToPolice">
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Police Force</ion-label>
+                <ion-select class="select" formControlName="policeForce" block [disabled]="isNotEditable">
+                  <ion-option *ngFor="let item of policeForce; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                </ion-select>
+              </ion-item>
+
+              <ion-item *ngIf="selectedReportedToPolice">
+                <ion-label stacked>Police Crime Ref No.</ion-label>
+                <ion-textarea formControlName="policeCrimeRefNo" [disabled]="isNotEditable">
+                </ion-textarea>
+              </ion-item>
+
+
+              <ion-item *ngIf="isVisible">
+                <ion-label stacked>Item Ownership</ion-label>
+                <ion-select interface="popover" formControlName="itemOwnership" (ionChange)="ItemOwnership ($event)" [disabled]="isNotEditable">
+                    <ion-option *ngFor="let item of itemOwnership; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                </ion-select>
+              </ion-item>
+
+              <ion-item *ngIf="selectedItemOwnership">
+                <ion-label stacked>Item Description</ion-label>
+                <ion-textarea formControlName="itemDescription" [disabled]="isNotEditable">
+                </ion-textarea>
+              </ion-item>
+
+              <ion-item *ngIf="selectedItemOwnership">
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Estimate Value Of Loss/Damage (£)</ion-label>
+                <ion-textarea formControlName="estimateValueOfLossDamage" [disabled]="isNotEditable">
+                </ion-textarea>
+              </ion-item>
+
+              <ion-item>
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Incident Description</ion-label>
+                <ion-textarea formControlName="incidentDescription" (blur)="autosave($event,'IncidentDescription', 'incidentDescription')" [disabled]="isNotEditable">
+                </ion-textarea>
+            </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

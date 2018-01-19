@@ -1,0 +1,186 @@
+[
+    {
+  "index": "1",
+  "value": "Ache/Soreness/Redness"
+  },
+  {
+  "index": "2",
+  "value": "Amputation"
+  },
+  {
+  "index": "3",
+  "value": "Anaphylaxis"
+  },
+  {
+  "index": "4",
+  "value": "Asthma"
+  },
+  {
+  "index": "5",
+  "value": "Blinding"
+  },
+  {
+  "index": "6",
+  "value": "Bruising/Abrasion"
+  },
+  {
+  "index": "7",
+  "value": "Burn (Chemical)"
+  },
+  {
+  "index": "8",
+  "value": "Burn (Heat or Cold)"
+  },
+  {
+  "index": "9",
+  "value": "Carpel Tunnel Syndrome"
+  },
+  {
+  "index": "10",
+  "value": "Chest pains / Angina"
+  },
+  {
+  "index": "11",
+  "value": "Choking"
+  },
+  {
+  "index": "12",
+  "value": "Concussion"
+  },
+  {
+  "index": "13",
+  "value": "Crush"
+  },
+  {
+  "index": "14",
+  "value": "Cut/Laceration"
+  },
+  {
+  "index": "15",
+  "value": "Dermatitis"
+  },
+  {
+  "index": "16",
+  "value": "Dislocation"
+  },
+  {
+  "index": "17",
+  "value": "Dizziness"
+  },
+  {
+  "index": "18",
+  "value": "Drowning/Asphyxiation"
+  },
+  {
+  "index": "19",
+  "value": "Electric shock"
+  },
+  {
+  "index": "20",
+  "value": "Epilepsy"
+  },
+  {
+  "index": "21",
+  "value": "Fainting"
+  },
+  {
+  "index": "22",
+  "value": "Fatigue"
+  },
+  {
+  "index": "23",
+  "value": "Flu-like symptons"
+  },
+  {
+  "index": "24",
+  "value": "Fracture"
+  },
+  {
+  "index": "25",
+  "value": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "index": "26",
+  "value": "Headache"
+  },
+  {
+  "index": "27",
+  "value": "Hypothermia"
+  },
+  {
+  "index": "28",
+  "value": "Inflammation"
+  },
+  {
+  "index": "29",
+  "value": "Nauseous"
+  },
+  {
+  "index": "30",
+  "value": "Nose bleed"
+  },
+  {
+  "index": "31",
+  "value": "Puncture (including bite)"
+  },
+  {
+  "index": "32",
+  "value": "Respiratory / Asthma"
+  },
+  {
+  "index": "33",
+  "value": "Scald"
+  },
+  {
+  "index": "34",
+  "value": "Scalping"
+  },
+  {
+  "index": "35",
+  "value": "Scratch/Graze"
+  },
+  {
+  "index": "36",
+  "value": "Severe Cramp"
+  },
+  {
+  "index": "37",
+  "value": "Shock"
+  },
+  {
+  "index": "38",
+  "value": "Skin irration (including stings)"
+  },
+  {
+  "index": "39",
+  "value": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "index": "40",
+  "value": "Stress"
+  },
+  {
+  "index": "41",
+  "value": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "index": "42",
+  "value": "Torn Ligaments"
+  },
+  {
+  "index": "43",
+  "value": "Unconscious (Responsive)"
+  },
+  {
+  "index": "44",
+  "value": "Unconscious (Unresponsive)"
+  },
+  {
+  "index": "45",
+  "value": "Viral infection"
+  },
+  {
+  "index": "46",
+  "value": "Vomiting"
+  }
+]

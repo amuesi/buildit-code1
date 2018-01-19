@@ -1,0 +1,22 @@
+[
+  {
+  "index": "1",
+  "value": "Severn Trent Water (STW)"
+  },
+  {
+    "index": "2",
+    "value": "Severn Trent Services (STS)"
+  },
+  {
+    "index": "3",
+    "value": "Third Party Premises"
+  },
+  {
+    "index": "4",
+    "value": "Public Highway"
+  },
+  {
+    "index": "5",
+    "value": "Other"
+  }
+]

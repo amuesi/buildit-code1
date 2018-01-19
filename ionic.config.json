@@ -1,8 +1,7 @@
 {
-  "name": "ionic2app",
-  "app_id": "2b03d01e",
+  "name": "tester",
+  "app_id": "",
   "type": "ionic-angular",
-  "bibleApiKey": "j4h5xGHkzX3x8V0NBvLESEhrQRJzXRcKb9geJiH0",
   "integrations": {
     "cordova": {}
   }

@@ -1,0 +1,30 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappened">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help" md="md-help"></ion-icon>
+                What Happened?
+            </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>What Was The Type Of Security Concern?</ion-label>
+                    <ion-select class="select" formControlName="securityCategory" block>
+                        <ion-option *ngFor="let item of securityCategory; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+
+
+
+                <ion-item>
+                    <ion-label stacked>Incident Description</ion-label>
+                    <ion-textarea formControlName="incidentDescription">
+                    </ion-textarea>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

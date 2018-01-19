@@ -1,0 +1,6106 @@
+[
+    {
+  "id": "1",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "2",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "3",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "4",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "5",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "6",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "7",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "8",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "9",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "10",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "11",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "12",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "13",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "14",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "15",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "16",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "17",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "18",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "19",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "20",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "21",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "22",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "23",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "24",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "25",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "26",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "27",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "28",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "29",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "30",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "31",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "32",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "33",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "34",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "35",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "36",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "37",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "38",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "39",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "40",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "41",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "42",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "43",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "44",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "45",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "46",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "47",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "48",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Teeth",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "49",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "50",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Ache/Soreness/Redness"
+  },
+  {
+  "id": "51",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "52",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Teeth",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "53",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Asthma"
+  },
+  {
+  "id": "54",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "55",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "56",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "57",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "58",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "59",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "60",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "61",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "62",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "63",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "64",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "65",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "66",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "67",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "68",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "69",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "70",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "71",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "72",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "73",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "74",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "75",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "76",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "77",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "78",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "79",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "80",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "81",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "82",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "83",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "84",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "85",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "86",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "87",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "88",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "89",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "90",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "91",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "92",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "93",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "94",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "95",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "96",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "97",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "98",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "99",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "100",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "101",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "102",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "103",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Bruising/Abrasion"
+  },
+  {
+  "id": "104",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "105",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "106",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "107",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "108",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "109",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "110",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "111",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "112",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "113",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "114",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "115",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "116",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "117",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "118",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "119",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "120",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "121",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "122",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "123",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "124",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "125",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "126",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "127",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "128",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "129",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "130",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "131",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "132",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "133",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "134",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "135",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "136",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "137",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "138",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "139",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "140",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "141",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "142",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "143",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "144",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "145",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "146",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "147",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "148",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "149",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "150",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "151",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "152",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "153",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "154",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "155",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "156",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "157",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "158",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "159",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "160",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "161",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "162",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "163",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "164",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "165",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "166",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "167",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "168",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "169",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "170",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "171",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "172",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "173",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "174",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "175",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "176",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "177",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "178",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "179",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "180",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "181",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "182",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "183",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "184",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "185",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "186",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "187",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "188",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "189",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "190",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "191",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "192",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "193",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "194",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "195",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "196",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "197",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "198",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "199",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "200",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "201",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Carpel Tunnel Syndrome"
+  },
+  {
+  "id": "202",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "203",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "204",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "205",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "206",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "207",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "208",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "209",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "210",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "211",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "212",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "213",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "214",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "215",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "216",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "217",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "218",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "219",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "220",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "221",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "222",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "223",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "224",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "225",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "226",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "227",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "228",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "229",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "230",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "231",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "232",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "233",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "234",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "235",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "236",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "237",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "238",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "239",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "240",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "241",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "242",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "243",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "244",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "245",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "246",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "247",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "248",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "249",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "250",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "251",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "252",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "253",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "254",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "255",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "256",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "257",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "258",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "259",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "260",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "261",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "262",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "263",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "264",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "265",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "266",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "267",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "268",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "269",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "270",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "271",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "272",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "273",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "274",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "275",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "276",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "277",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "278",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "279",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "280",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "281",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "282",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "283",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "284",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "285",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "286",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "287",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "288",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "289",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "290",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "291",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "292",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "293",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "294",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "295",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "296",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "297",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "298",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "299",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "300",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "301",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "302",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "303",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "304",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "305",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "306",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "307",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "308",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "309",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "310",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "311",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "312",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "313",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Neck",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "314",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Nose",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "315",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "316",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "317",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "318",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "319",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "320",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "321",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "322",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Chest",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "323",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Head",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "324",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "325",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "326",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "327",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "328",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "329",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "330",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "331",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "332",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "333",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "334",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "335",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "336",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "337",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "338",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "339",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Torso",
+  "Injury_Type": "Dermatitis"
+  },
+  {
+  "id": "340",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "341",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "342",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "343",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "344",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "345",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "346",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "347",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "348",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "349",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "350",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "351",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "352",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "353",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "354",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "355",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "356",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "357",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "358",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "359",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "360",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "361",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "362",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "363",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "364",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "365",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "366",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "367",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "368",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "369",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "370",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "371",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "372",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "373",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "374",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "375",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "376",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "377",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "378",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "379",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "380",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "381",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "382",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "383",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "384",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "385",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "386",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "387",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "388",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "389",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "390",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "391",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "392",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "393",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "394",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "395",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "396",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "397",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "398",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "399",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "400",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "401",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "402",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "403",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "404",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "405",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "406",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Teeth",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "407",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "408",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "409",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "410",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "411",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "412",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "413",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "414",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Hand Arm Vibration Syndrome"
+  },
+  {
+  "id": "415",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "416",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "417",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "418",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "419",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "420",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "421",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "422",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "423",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "424",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "425",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "426",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "427",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "428",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "429",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "430",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "431",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "432",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "433",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "434",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "435",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "436",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "437",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "438",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "439",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "440",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "441",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "442",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "443",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "444",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "445",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "446",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "447",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "448",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "449",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "450",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "451",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "452",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "453",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "454",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "455",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "456",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "457",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "458",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "459",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "460",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "461",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "462",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "463",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Inflammation"
+  },
+  {
+  "id": "464",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "465",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "466",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "467",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "468",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "469",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "470",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "471",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "472",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "473",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "474",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "475",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "476",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "477",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "478",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "479",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "480",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "481",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "482",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "483",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "484",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "485",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "486",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "487",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "488",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "489",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "490",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "491",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "492",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "493",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "494",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "495",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "496",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "497",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "498",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "499",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "500",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "501",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "502",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "503",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "504",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "505",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "506",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "507",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "508",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "509",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "510",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "511",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "512",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "513",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "514",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "515",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "516",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "517",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "518",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "519",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "520",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "521",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "522",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "523",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "524",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "525",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "526",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "527",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "528",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "529",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "530",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "531",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "532",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "533",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "534",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "535",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "536",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "537",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "538",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "539",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "540",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "541",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "542",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "543",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "544",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "545",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "546",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "547",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "548",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "549",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "550",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "551",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "552",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "553",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "554",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "555",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "556",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "557",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "558",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "559",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "560",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "561",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "562",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "563",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "564",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "565",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "566",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "567",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "568",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "569",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Scratch/Graze"
+  },
+  {
+  "id": "570",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "571",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "572",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "573",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "574",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "575",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "576",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "577",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Severe Cramp"
+  },
+  {
+  "id": "578",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Shock"
+  },
+  {
+  "id": "579",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "580",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "581",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "582",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "583",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "584",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "585",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "586",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "587",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "588",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "589",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "590",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "591",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "592",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "593",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "594",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "595",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "596",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "597",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "598",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "599",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "600",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "601",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "602",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "603",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "604",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "605",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "606",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "607",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "608",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "609",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "610",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "611",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "612",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "613",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "614",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "615",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "616",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "617",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "618",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "619",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "620",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "621",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "622",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "623",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "624",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "625",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "626",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "627",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Skin irration (including stings)"
+  },
+  {
+  "id": "628",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "629",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "630",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "631",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "632",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "633",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "634",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "635",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "636",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "637",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "638",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "639",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "640",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "641",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "642",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "643",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "644",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "645",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "646",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "647",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "648",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "649",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "650",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "651",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "652",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "653",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "654",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "655",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "656",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "657",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "658",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "659",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "660",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "661",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "662",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "663",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "664",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "665",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "666",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "667",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Sprain/Strain/Pulled muscle"
+  },
+  {
+  "id": "668",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "669",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "670",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "671",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "672",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "673",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "674",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "675",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "676",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "677",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Neck",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "678",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "679",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "680",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "681",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "682",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "Yes",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Tendonitis or Tenosynovitis"
+  },
+  {
+  "id": "683",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "684",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "685",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "686",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "687",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "688",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "689",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "690",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "691",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "692",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "693",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "694",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "695",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "696",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "697",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "698",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "699",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "700",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "701",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "702",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "703",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "704",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "705",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "706",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "707",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "708",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "709",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "710",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "711",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "712",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "713",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "714",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "715",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "716",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "717",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "718",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "719",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "720",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "721",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Torn Ligaments"
+  },
+  {
+  "id": "722",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Unconscious (Responsive)"
+  },
+  {
+  "id": "723",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Unconscious (Responsive)"
+  },
+  {
+  "id": "724",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Anaphylaxis"
+  },
+  {
+  "id": "725",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Chest pains / Angina"
+  },
+  {
+  "id": "726",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Choking"
+  },
+  {
+  "id": "727",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Dizziness"
+  },
+  {
+  "id": "728",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Epilepsy"
+  },
+  {
+  "id": "729",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Fainting"
+  },
+  {
+  "id": "730",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Flu-like symptons"
+  },
+  {
+  "id": "731",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Headache"
+  },
+  {
+  "id": "732",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Nauseous"
+  },
+  {
+  "id": "733",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Nose bleed"
+  },
+  {
+  "id": "734",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Respiratory / Asthma"
+  },
+  {
+  "id": "735",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Stress"
+  },
+  {
+  "id": "736",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Viral infection"
+  },
+  {
+  "id": "737",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Vomiting"
+  },
+  {
+  "id": "738",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Fatigue"
+  },
+  {
+  "id": "739",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "740",
+  "RIDDOR_FLAG": "No",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Cut/Laceration"
+  },
+  {
+  "id": "741",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "742",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "743",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "744",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "745",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "746",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "747",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "748",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "749",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "750",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "751",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "752",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "753",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "754",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "755",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "756",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "757",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "758",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "759",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "760",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "761",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "762",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - calf",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "763",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "764",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "765",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "766",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot Toes",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "767",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot Toes",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "768",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Genitals",
+  "Injury_Type": "Amputation"
+  },
+  {
+  "id": "769",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Blinding"
+  },
+  {
+  "id": "770",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Blinding"
+  },
+  {
+  "id": "771",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "772",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "773",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "774",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "775",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Burn (Chemical)"
+  },
+  {
+  "id": "776",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "777",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "778",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "779",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "780",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Burn (Heat or Cold)"
+  },
+  {
+  "id": "781",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Concussion"
+  },
+  {
+  "id": "782",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "783",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "784",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "785",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Crush"
+  },
+  {
+  "id": "786",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "787",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "788",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "789",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "790",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "791",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "792",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "793",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Dislocation"
+  },
+  {
+  "id": "794",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Drowning/Asphyxiation"
+  },
+  {
+  "id": "795",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Electric shock"
+  },
+  {
+  "id": "796",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "797",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "798",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "799",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "800",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "801",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "802",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "803",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "804",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "805",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "806",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "807",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "808",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "809",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "810",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "811",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "812",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "813",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "814",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "815",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "816",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "817",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "818",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "819",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "820",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "821",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Foot",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "822",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hand",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "823",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Hip",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "824",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - knee",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "825",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - shin",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "826",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left lower limb - thigh",
+  "Injury_Type": "Fracture"
+  },
+  {
+  "id": "827",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Hypothermia"
+  },
+  {
+  "id": "828",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "829",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Foot",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "830",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hand",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "831",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Hip",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "832",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - calf",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "833",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - knee",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "834",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - shin",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "835",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right lower limb - thigh",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "836",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right shoulder",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "837",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Thumb/Finger(s)",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "838",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - elbow",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "839",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right upper limb - forearm",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "840",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right wrist",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "841",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Upper back / spine",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "842",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Shoulder",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "843",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Thumb/Finger(s)",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "844",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - elbow",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "845",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left upper limb - forearm",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "846",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Wrist",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "847",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Lower back / spine",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "848",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Middle back",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "849",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Mouth",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "850",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Neck",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "851",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Nose",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "852",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Pelvis",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "853",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Ribs",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "854",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ankle",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "855",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right buttock",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "856",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Ear",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "857",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Abdomen",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "858",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Cheek",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "859",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Chest",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "860",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "861",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ankle",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "862",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left buttock",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "863",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left Ear",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "864",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Puncture (including bite)"
+  },
+  {
+  "id": "865",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Right Eye",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "866",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Left eye",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "867",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Whole Body",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "868",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "869",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Torso",
+  "Injury_Type": "Scald"
+  },
+  {
+  "id": "870",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Scalping"
+  },
+  {
+  "id": "871",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Head",
+  "Injury_Type": "Unconscious (Unresponsive)"
+  },
+  {
+  "id": "872",
+  "RIDDOR_FLAG": "Yes",
+  "RIDDOR_Illness_Flag": "No",
+  "Body_Part": "Vital Organs",
+  "Injury_Type": "Unconscious (Unresponsive)"
+  }
+]

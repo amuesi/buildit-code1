@@ -1,0 +1,1521 @@
+[
+    {
+  "id": "1",
+  "EventSubCategory": "10 kilograms or more of a flammable gas",
+  "EventCategory": "Escape of flammable substances - sudden uncontrolled",
+  "EventCategorySubCategory": "Escape of flammable substances - sudden uncontrolled - 10 kilograms or more of a flammable gas",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "2",
+  "EventSubCategory": "10 kilograms or more of a flammable liquid at a temperature at above it's normal boiling point",
+  "EventCategory": "Escape of flammable substances - sudden uncontrolled",
+  "EventCategorySubCategory": "Escape of flammable substances - sudden uncontrolled - 10 kilograms or more of a flammable liquid at a temperature at above it's normal boiling point",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "3",
+  "EventSubCategory": "Access cradle or window cleaning cradle",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Access cradle or window cleaning cradle",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "4",
+  "EventSubCategory": "Ammonia Compound",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Ammonia Compound",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "5",
+  "EventSubCategory": "Any falsework",
+  "EventCategory": "Unintended collapse of a wall or floor in a place of work",
+  "EventCategorySubCategory": "Unintended collapse of a wall or floor in a place of work - Any falsework",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "6",
+  "EventSubCategory": "Any floor/wall which is used as a place of work",
+  "EventCategory": "Unintended collapse of a wall or floor in a place of work",
+  "EventCategorySubCategory": "Unintended collapse of a wall or floor in a place of work - Any floor/wall which is used as a place of work",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "7",
+  "EventSubCategory": "Arc flash",
+  "EventCategory": "Contact with electricity or an electrical discharge",
+  "EventCategorySubCategory": "Contact with electricity or an electrical discharge - Arc flash",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "8",
+  "EventSubCategory": "Asbestos",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Asbestos",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "9",
+  "EventSubCategory": "Asphyxiation by free flowing solids",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Asphyxiation by free flowing solids",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "10",
+  "EventSubCategory": "Attended by fire/explosion which results in the stoppage of plant involved for more than 24 hours",
+  "EventCategory": "Electrical short circuit or overload",
+  "EventCategorySubCategory": "Electrical short circuit or overload - Attended by fire/explosion which results in the stoppage of plant involved for more than 24 hours",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "11",
+  "EventSubCategory": "Building/structure under construction/demolition which involves a fall of more than 5 tonnes of material",
+  "EventCategory": "Unintended collapse of a wall or floor in a place of work",
+  "EventCategorySubCategory": "Unintended collapse of a wall or floor in a place of work - Building/structure under construction/demolition which involves a fall of more than 5 tonnes of material",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "12",
+  "EventSubCategory": "Causes an electrical discharge from such an electric line by coming into close proximity to it",
+  "EventCategory": "Contact with overhead electric lines",
+  "EventCategorySubCategory": "Contact with overhead electric lines - Causes an electrical discharge from such an electric line by coming into close proximity to it",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "13",
+  "EventSubCategory": "Caustic Soda (Sodium Hydroxide)",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Caustic Soda (Sodium Hydroxide)",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "14",
+  "EventSubCategory": "Chains",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Chains",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "15",
+  "EventSubCategory": "Chlorine",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Chlorine",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "16",
+  "EventSubCategory": "Collapse during demolition",
+  "EventCategory": "Trapped by something collapsing/overturning",
+  "EventCategorySubCategory": "Trapped by something collapsing/overturning - Collapse during demolition",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "17",
+  "EventSubCategory": "Collapse of material/earth",
+  "EventCategory": "Trapped by something collapsing/overturning",
+  "EventCategorySubCategory": "Trapped by something collapsing/overturning - Collapse of material/earth",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "18",
+  "EventSubCategory": "Collapse of structure/building",
+  "EventCategory": "Trapped by something collapsing/overturning",
+  "EventCategorySubCategory": "Trapped by something collapsing/overturning - Collapse of structure/building",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "19",
+  "EventSubCategory": "Contact with buried electricity cables (HV)",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with buried electricity cables (HV)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "20",
+  "EventSubCategory": "Contact with buried Electricity cables (LV)",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with buried Electricity cables (LV)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "21",
+  "EventSubCategory": "Contact with faulty equipment",
+  "EventCategory": "Contact with electricity or an electrical discharge",
+  "EventCategorySubCategory": "Contact with electricity or an electrical discharge - Contact with faulty equipment",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "22",
+  "EventSubCategory": "Contact with fibre optic cables",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with fibre optic cables",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "23",
+  "EventSubCategory": "Contact with high pressure pipelines",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with high pressure pipelines",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "24",
+  "EventSubCategory": "Contact with live components",
+  "EventCategory": "Contact with electricity or an electrical discharge",
+  "EventCategorySubCategory": "Contact with electricity or an electrical discharge - Contact with live components",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "25",
+  "EventSubCategory": "Contact with other underground pipeline",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with other underground pipeline",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "26",
+  "EventSubCategory": "Contact with other underground service",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with other underground service",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "27",
+  "EventSubCategory": "Contact with Overhead Pipelines",
+  "EventCategory": "Damage or exposure of overhead services",
+  "EventCategorySubCategory": "Damage or exposure of overhead services - Contact with Overhead Pipelines",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "28",
+  "EventSubCategory": "Contact with Overhead Power lines (HV)",
+  "EventCategory": "Damage or exposure of overhead services",
+  "EventCategorySubCategory": "Damage or exposure of overhead services - Contact with Overhead Power lines (HV)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "29",
+  "EventSubCategory": "Contact with Overhead Power lines (LV)",
+  "EventCategory": "Damage or exposure of overhead services",
+  "EventCategorySubCategory": "Damage or exposure of overhead services - Contact with Overhead Power lines (LV)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "30",
+  "EventSubCategory": "Contact with Overhead telecommunications",
+  "EventCategory": "Damage or exposure of overhead services",
+  "EventCategorySubCategory": "Damage or exposure of overhead services - Contact with Overhead telecommunications",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "31",
+  "EventSubCategory": "Contact with power line/pipeline support structures",
+  "EventCategory": "Damage or exposure of overhead services",
+  "EventCategorySubCategory": "Damage or exposure of overhead services - Contact with power line/pipeline support structures",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "32",
+  "EventSubCategory": "Contact with sharp object/edges",
+  "EventCategory": "Struck something fixed or stationary",
+  "EventCategorySubCategory": "Struck something fixed or stationary - Contact with sharp object/edges",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "33",
+  "EventSubCategory": "Contact with Underground gas pipeline/service",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with Underground gas pipeline/service",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "34",
+  "EventSubCategory": "Contact with Underground gravity drain/sewer",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with Underground gravity drain/sewer",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "35",
+  "EventSubCategory": "Contact with Underground telecommunications cables",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with Underground telecommunications cables",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "36",
+  "EventSubCategory": "Contact with Underground water pipeline/service",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Contact with Underground water pipeline/service",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "37",
+  "EventSubCategory": "Contact with uninsulated electric line in which the voltage exceeds 200 volts",
+  "EventCategory": "Contact with overhead electric lines",
+  "EventCategorySubCategory": "Contact with overhead electric lines - Contact with uninsulated electric line in which the voltage exceeds 200 volts",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "38",
+  "EventSubCategory": "Controls",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Controls",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "39",
+  "EventSubCategory": "Crane or derrick",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Crane or derrick",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "40",
+  "EventSubCategory": "Cranes",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Cranes",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "41",
+  "EventSubCategory": "Damage of Underground Cables",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Damage of Underground Cables",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "42",
+  "EventSubCategory": "Damage Underground Pipeline/Duct",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Damage Underground Pipeline/Duct",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "43",
+  "EventSubCategory": "Davit and sockets",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Davit and sockets",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "44",
+  "EventSubCategory": "Drowning in liquid",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Drowning in liquid",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "45",
+  "EventSubCategory": "During testing immediately prior to use",
+  "EventCategory": "Any incident in which breathing apparatus malfunctions",
+  "EventCategorySubCategory": "Any incident in which breathing apparatus malfunctions - During testing immediately prior to use",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "46",
+  "EventSubCategory": "Excavator",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Excavator",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "47",
+  "EventSubCategory": "Exposed to chemical asphixiants",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Exposed to chemical asphixiants",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "48",
+  "EventSubCategory": "Exposed to cold gases/vapours",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to cold gases/vapours",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "49",
+  "EventSubCategory": "Exposed to cold liquid",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to cold liquid",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "50",
+  "EventSubCategory": "Exposed to cold surface",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to cold surface",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "51",
+  "EventSubCategory": "Exposed to exploding pressure device/cylinder",
+  "EventCategory": "Exposed to an explosion (DSEAR)",
+  "EventCategorySubCategory": "Exposed to an explosion (DSEAR) - Exposed to exploding pressure device/cylinder",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "52",
+  "EventSubCategory": "Exposed to explosive dust",
+  "EventCategory": "Exposed to an explosion (DSEAR)",
+  "EventCategorySubCategory": "Exposed to an explosion (DSEAR) - Exposed to explosive dust",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "53",
+  "EventSubCategory": "Exposed to flames",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to flames",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "54",
+  "EventSubCategory": "Exposed to flammable liquid/gas explosion",
+  "EventCategory": "Exposed to an explosion (DSEAR)",
+  "EventCategorySubCategory": "Exposed to an explosion (DSEAR) - Exposed to flammable liquid/gas explosion",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "55",
+  "EventSubCategory": "Exposed to hot gases/vapours/steam",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to hot gases/vapours/steam",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "56",
+  "EventSubCategory": "Exposed to hot liquid",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to hot liquid",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "57",
+  "EventSubCategory": "Exposed to hot surfaces",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Exposed to hot surfaces",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "58",
+  "EventSubCategory": "Exposed to low oxygen atmosphere",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Exposed to low oxygen atmosphere",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "59",
+  "EventSubCategory": "Exposed to or in contact with Ammonia Compound",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Ammonia Compound",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "60",
+  "EventSubCategory": "Exposed to or in contact with Asbestos",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Asbestos",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "61",
+  "EventSubCategory": "Exposed to or in contact with biological agents",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with biological agents",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "62",
+  "EventSubCategory": "Exposed to or in contact with Chlorine",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Chlorine",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "63",
+  "EventSubCategory": "Exposed to or in contact with Environmental Discharge",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Environmental Discharge",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "64",
+  "EventSubCategory": "Exposed to or in contact with Ferric Compounds",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Ferric Compounds",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "65",
+  "EventSubCategory": "Exposed to or in contact with Fluoride",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Fluoride",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "66",
+  "EventSubCategory": "Exposed to or in contact with harmful gas",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with harmful gas",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "67",
+  "EventSubCategory": "Exposed to or in contact with high pressure water",
+  "EventCategory": "Pressure Jetting / Vessels",
+  "EventCategorySubCategory": "Pressure Jetting / Vessels - Exposed to or in contact with high pressure water",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "68",
+  "EventSubCategory": "Exposed to or in contact with Hydrofluorosilic acid",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrofluorosilic acid",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "69",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "70",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide 101 - 250 ppm",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide 101 - 250 ppm",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "71",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide 11 - 20 ppm",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide 11 - 20 ppm",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "72",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide 1-10 ppm",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide 1-10 ppm",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "73",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide 21 - 50 ppm",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide 21 - 50 ppm",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "74",
+  "EventSubCategory": "Exposed to or in contact with Hydrogen Sulphide 51 - 100 ppm",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Hydrogen Sulphide 51 - 100 ppm",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "75",
+  "EventSubCategory": "Exposed to or in contact with Kalic",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Kalic",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "76",
+  "EventSubCategory": "Exposed to or in contact with Lime",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Lime",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "77",
+  "EventSubCategory": "Exposed to or in contact with other harmful liquids",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with other harmful liquids",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "78",
+  "EventSubCategory": "Exposed to or in contact with other harmful solids",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with other harmful solids",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "79",
+  "EventSubCategory": "Exposed to or in contact with Sewage",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Sewage",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "80",
+  "EventSubCategory": "Exposed to or in contact with Sharps/needles",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Sharps/needles",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "81",
+  "EventSubCategory": "Exposed to or in contact with Sludge",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Sludge",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "82",
+  "EventSubCategory": "Exposed to or in contact with Sodium hypochlorite",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Sodium hypochlorite",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "83",
+  "EventSubCategory": "Exposed to or in contact with Sulphur dioxide",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in contact with Sulphur dioxide",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "84",
+  "EventSubCategory": "Exposed to or in cotact with Caustic Soda (Sodium Hydroxide)",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Exposed to or in cotact with Caustic Soda (Sodium Hydroxide)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "85",
+  "EventSubCategory": "Exposed to plant with thorns / needles",
+  "EventCategory": "Plant",
+  "EventCategorySubCategory": "Plant - Exposed to plant with thorns / needles",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "86",
+  "EventSubCategory": "Exposed to poisonous plant",
+  "EventCategory": "Plant",
+  "EventCategorySubCategory": "Plant - Exposed to poisonous plant",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "87",
+  "EventSubCategory": "Exposed to stinging plant",
+  "EventCategory": "Plant",
+  "EventCategorySubCategory": "Plant - Exposed to stinging plant",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "88",
+  "EventSubCategory": "Exposed to unknown plant",
+  "EventCategory": "Plant",
+  "EventCategorySubCategory": "Plant - Exposed to unknown plant",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "89",
+  "EventSubCategory": "Exposure to ionising radiation",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to ionising radiation",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "90",
+  "EventSubCategory": "Exposure to ionising radiation",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to ionising radiation",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "91",
+  "EventSubCategory": "Exposure to Lasers",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to Lasers",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "92",
+  "EventSubCategory": "Exposure to other non-ionising radiation",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to other non-ionising radiation",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "93",
+  "EventSubCategory": "Exposure to Radon gas",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to Radon gas",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "94",
+  "EventSubCategory": "Exposure to Radon gas",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to Radon gas",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "95",
+  "EventSubCategory": "Exposure to UV radiation",
+  "EventCategory": "Exposed to radiation",
+  "EventCategorySubCategory": "Exposed to radiation - Exposure to UV radiation",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "96",
+  "EventSubCategory": "Failure of pressure vessel",
+  "EventCategory": "Pressure Jetting / Vessels",
+  "EventCategorySubCategory": "Pressure Jetting / Vessels - Failure of pressure vessel",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "97",
+  "EventSubCategory": "Fall from bicycle",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from bicycle",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "98",
+  "EventSubCategory": "Fall from fixed ladders",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from fixed ladders",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "99",
+  "EventSubCategory": "Fall from height with arrestor/restraint",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from height with arrestor/restraint",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "100",
+  "EventSubCategory": "Fall from play equipment",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from play equipment",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "101",
+  "EventSubCategory": "Fall from play equipment (OBSOLETE)",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from play equipment (OBSOLETE)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "102",
+  "EventSubCategory": "Fall from portable ladder / step ladders",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from portable ladder / step ladders",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "103",
+  "EventSubCategory": "Fall from scaffolding",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Fall from scaffolding",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "104",
+  "EventSubCategory": "Falls from vehicles/trailers",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Falls from vehicles/trailers",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "105",
+  "EventSubCategory": "Falls from/through fragile surfaces",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Falls from/through fragile surfaces",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "106",
+  "EventSubCategory": "Falls into excavations/tanks/wells",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Falls into excavations/tanks/wells",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "107",
+  "EventSubCategory": "Ferric Compounds",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Ferric Compounds",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "108",
+  "EventSubCategory": "Fluoride",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Fluoride",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "109",
+  "EventSubCategory": "Fork lift truck",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Fork lift truck",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "110",
+  "EventSubCategory": "Gas",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Gas",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "111",
+  "EventSubCategory": "Gas alarm triggered during pre-work testing",
+  "EventCategory": "Exposed to, or contact with harmful substance",
+  "EventCategorySubCategory": "Exposed to, or contact with harmful substance - Gas alarm triggered during pre-work testing",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "112",
+  "EventSubCategory": "Gas alarm triggered whilst working",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Gas alarm triggered whilst working",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "113",
+  "EventSubCategory": "Good Practice",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Good Practice",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "114",
+  "EventSubCategory": "Has the potential to cause the death of any person",
+  "EventCategory": "Electrical short circuit or overload",
+  "EventCategorySubCategory": "Electrical short circuit or overload - Has the potential to cause the death of any person",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "115",
+  "EventSubCategory": "Held against will",
+  "EventCategory": "Assaulted by a person",
+  "EventCategorySubCategory": "Assaulted by a person - Held against will",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "116",
+  "EventSubCategory": "High Potential Near Miss",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - High Potential Near Miss",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "117",
+  "EventSubCategory": "Hit by 3rd party vehicle within mobile works area",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Hit by 3rd party vehicle within mobile works area",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "118",
+  "EventSubCategory": "Hit by blown materials/objects",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by blown materials/objects",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "119",
+  "EventSubCategory": "Hit by cyclist/motorcyclist on site",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Hit by cyclist/motorcyclist on site",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "120",
+  "EventSubCategory": "Hit by ejected materials/components",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by ejected materials/components",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "121",
+  "EventSubCategory": "Hit by hand tools (eg Hammer)",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by hand tools (eg Hammer)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "122",
+  "EventSubCategory": "Hit by mobile plant on site/in work areas",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Hit by mobile plant on site/in work areas",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "123",
+  "EventSubCategory": "Hit by object falling from a height",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by object falling from a height",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "124",
+  "EventSubCategory": "Hit by object falling into excavation/tank/wells",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by object falling into excavation/tank/wells",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "125",
+  "EventSubCategory": "Hit by revolving/moving doors",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Hit by revolving/moving doors",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "126",
+  "EventSubCategory": "Hit by road vehicle on site",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Hit by road vehicle on site",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "127",
+  "EventSubCategory": "Hit by train/tram",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Hit by train/tram",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "128",
+  "EventSubCategory": "Hours worked issues",
+  "EventCategory": "Occupational Health",
+  "EventCategorySubCategory": "Occupational Health - Hours worked issues",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "129",
+  "EventSubCategory": "Hydrofluorosilic acid",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Hydrofluorosilic acid",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "130",
+  "EventSubCategory": "Hydrogen Sulphide",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Hydrogen Sulphide",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "131",
+  "EventSubCategory": "Impact with structure on site with vehicle/plant",
+  "EventCategory": "Hit by a moving vehicle or item of plant (on site / mobile works)",
+  "EventCategorySubCategory": "Hit by a moving vehicle or item of plant (on site / mobile works) - Impact with structure on site with vehicle/plant",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "132",
+  "EventSubCategory": "In the open air of 500 kilograms or more of flammable liquid",
+  "EventCategory": "Escape of flammable substances - sudden uncontrolled",
+  "EventCategorySubCategory": "Escape of flammable substances - sudden uncontrolled - In the open air of 500 kilograms or more of flammable liquid",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "133",
+  "EventSubCategory": "Inadequately earthed/tested equipment including PAT testing",
+  "EventCategory": "Contact with electricity or an electrical discharge",
+  "EventCategorySubCategory": "Contact with electricity or an electrical discharge - Inadequately earthed/tested equipment including PAT testing",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "134",
+  "EventSubCategory": "Injured by animal (domestic)",
+  "EventCategory": "Animal",
+  "EventCategorySubCategory": "Animal - Injured by animal (domestic)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "135",
+  "EventSubCategory": "Injured by animal (farm)",
+  "EventCategory": "Animal",
+  "EventCategorySubCategory": "Animal - Injured by animal (farm)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "136",
+  "EventSubCategory": "Injured by animal (wild)",
+  "EventCategory": "Animal",
+  "EventCategorySubCategory": "Animal - Injured by animal (wild)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "137",
+  "EventSubCategory": "Injured by insect (bite)",
+  "EventCategory": "Insect",
+  "EventCategorySubCategory": "Insect - Injured by insect (bite)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "138",
+  "EventSubCategory": "Injured by insect (sting)",
+  "EventCategory": "Insect",
+  "EventCategorySubCategory": "Insect - Injured by insect (sting)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "139",
+  "EventSubCategory": "Injured while bending / kneeling",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while bending / kneeling",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "140",
+  "EventSubCategory": "Injured while carrying",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while carrying",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "141",
+  "EventSubCategory": "Injured while carrying (OBSOLETE)",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while carrying (OBSOLETE)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "142",
+  "EventSubCategory": "Injured while lifting",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while lifting",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "143",
+  "EventSubCategory": "Injured while pulling/pushing",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while pulling/pushing",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "144",
+  "EventSubCategory": "Injured while pulling/pushing (OBSOLETE)",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while pulling/pushing (OBSOLETE)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "145",
+  "EventSubCategory": "Injured while reaching",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while reaching",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "146",
+  "EventSubCategory": "Injured while twisting",
+  "EventCategory": "Manual Handling",
+  "EventCategorySubCategory": "Manual Handling - Injured while twisting",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "147",
+  "EventSubCategory": "Inside a building (including sewers) of 100 kilograms or more of flammable liquid",
+  "EventCategory": "Escape of flammable substances - sudden uncontrolled",
+  "EventCategorySubCategory": "Escape of flammable substances - sudden uncontrolled - Inside a building (including sewers) of 100 kilograms or more of flammable liquid",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "148",
+  "EventSubCategory": "Inspection out of date / no date tag",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Inspection out of date / no date tag",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "149",
+  "EventSubCategory": "Kalic",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Kalic",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "150",
+  "EventSubCategory": "Knocked into something",
+  "EventCategory": "Struck something fixed or stationary",
+  "EventCategorySubCategory": "Struck something fixed or stationary - Knocked into something",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "151",
+  "EventSubCategory": "Latent Damage",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Latent Damage",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "152",
+  "EventSubCategory": "Lift or hoist",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Lift or hoist",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "153",
+  "EventSubCategory": "Lime",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Lime",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "154",
+  "EventSubCategory": "Mobile - Contact with other moving mechanical components",
+  "EventCategory": "Contact with moving machinery - Mobile Machinery",
+  "EventCategorySubCategory": "Contact with moving machinery - Mobile Machinery - Mobile - Contact with other moving mechanical components",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "155",
+  "EventSubCategory": "Mobile - Contact with rotating machine parts",
+  "EventCategory": "Contact with moving machinery - Mobile Machinery",
+  "EventCategorySubCategory": "Contact with moving machinery - Mobile Machinery - Mobile - Contact with rotating machine parts",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "156",
+  "EventSubCategory": "Mobile - Drawn into machinery",
+  "EventCategory": "Contact with moving machinery - Mobile Machinery",
+  "EventCategorySubCategory": "Contact with moving machinery - Mobile Machinery - Mobile - Drawn into machinery",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "157",
+  "EventSubCategory": "Mobile - Drawn into screw/belt conveyors",
+  "EventCategory": "Contact with moving machinery - Mobile Machinery",
+  "EventCategorySubCategory": "Contact with moving machinery - Mobile Machinery - Mobile - Drawn into screw/belt conveyors",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "158",
+  "EventSubCategory": "Mobile powered access platform",
+  "EventCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment",
+  "EventCategorySubCategory": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment - Mobile powered access platform",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "159",
+  "EventSubCategory": "N/A",
+  "EventCategory": "Illness",
+  "EventCategorySubCategory": "Illness - N/A",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "160",
+  "EventSubCategory": "N/A",
+  "EventCategory": "N/A",
+  "EventCategorySubCategory": "N/A - N/A",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "161",
+  "EventSubCategory": "Operational - Contact with other moving mechanical components",
+  "EventCategory": "Contact with moving machinery - Operational Plant",
+  "EventCategorySubCategory": "Contact with moving machinery - Operational Plant - Operational - Contact with other moving mechanical components",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "162",
+  "EventSubCategory": "Operational - Contact with rotating machine parts",
+  "EventCategory": "Contact with moving machinery - Operational Plant",
+  "EventCategorySubCategory": "Contact with moving machinery - Operational Plant - Operational - Contact with rotating machine parts",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "163",
+  "EventSubCategory": "Operational - Contact with rotating machine parts (OBSOLETE)",
+  "EventCategory": "Contact with moving machinery - Operational Plant",
+  "EventCategorySubCategory": "Contact with moving machinery - Operational Plant - Operational - Contact with rotating machine parts (OBSOLETE)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "164",
+  "EventSubCategory": "Operational - Drawn into machinery",
+  "EventCategory": "Contact with moving machinery - Operational Plant",
+  "EventCategorySubCategory": "Contact with moving machinery - Operational Plant - Operational - Drawn into machinery",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "165",
+  "EventSubCategory": "Operational - Drawn into screw/belt conveyors",
+  "EventCategory": "Contact with moving machinery - Operational Plant",
+  "EventCategorySubCategory": "Contact with moving machinery - Operational Plant - Operational - Drawn into screw/belt conveyors",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "166",
+  "EventSubCategory": "Other biological agents (specify in description)",
+  "EventCategory": "Accidental release of a biological agent likely to cause severe human illness or infection",
+  "EventCategorySubCategory": "Accidental release of a biological agent likely to cause severe human illness or infection - Other biological agents (specify in description)",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "167",
+  "EventSubCategory": "Other falls from heights 2m or over",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Other falls from heights 2m or over",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "168",
+  "EventSubCategory": "Other falls from heights under 2m",
+  "EventCategory": "Fall from height or into void",
+  "EventCategorySubCategory": "Fall from height or into void - Other falls from heights under 2m",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "169",
+  "EventSubCategory": "Other slip, trip or fall",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Other slip, trip or fall",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "170",
+  "EventSubCategory": "Other substance (specify in description)",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Other substance (specify in description)",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "171",
+  "EventSubCategory": "Out of date inspection",
+  "EventCategory": "Pressure Jetting / Vessels",
+  "EventCategorySubCategory": "Pressure Jetting / Vessels - Out of date inspection",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "172",
+  "EventSubCategory": "Overcome by fumes",
+  "EventCategory": "Drowned or asphyxiated within a Confined Space",
+  "EventCategorySubCategory": "Drowned or asphyxiated within a Confined Space - Overcome by fumes",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "173",
+  "EventSubCategory": "Overexposure to sunlight",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Overexposure to sunlight",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "174",
+  "EventSubCategory": "Overturned plant/machinery",
+  "EventCategory": "Trapped by something collapsing/overturning",
+  "EventCategorySubCategory": "Trapped by something collapsing/overturning - Overturned plant/machinery",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "175",
+  "EventSubCategory": "Passenger lift including stair lifts",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Passenger lift including stair lifts",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "176",
+  "EventSubCategory": "Physically",
+  "EventCategory": "Assaulted by a person",
+  "EventCategorySubCategory": "Assaulted by a person - Physically",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "177",
+  "EventSubCategory": "Refused Access",
+  "EventCategory": "Assaulted by a person",
+  "EventCategorySubCategory": "Assaulted by a person - Refused Access",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "178",
+  "EventSubCategory": "Refused Exit",
+  "EventCategory": "Assaulted by a person",
+  "EventCategorySubCategory": "Assaulted by a person - Refused Exit",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "179",
+  "EventSubCategory": "Ropes",
+  "EventCategory": "Failure of Lifting Equipment",
+  "EventCategorySubCategory": "Failure of Lifting Equipment - Ropes",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "180",
+  "EventSubCategory": "RTI due to site access",
+  "EventCategory": "Road Traffic Incidents (on Public Highway)",
+  "EventCategorySubCategory": "Road Traffic Incidents (on Public Highway) - RTI due to site access",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "181",
+  "EventSubCategory": "RTI involving driver/rider on STW business",
+  "EventCategory": "Road Traffic Incidents (on Public Highway)",
+  "EventCategorySubCategory": "Road Traffic Incidents (on Public Highway) - RTI involving driver/rider on STW business",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "182",
+  "EventSubCategory": "RTI involving person walking/cycling on STW business",
+  "EventCategory": "Road Traffic Incidents (on Public Highway)",
+  "EventCategorySubCategory": "Road Traffic Incidents (on Public Highway) - RTI involving person walking/cycling on STW business",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "183",
+  "EventSubCategory": "RTI involving professional driver (HGV/PSV)",
+  "EventCategory": "Road Traffic Incidents (on Public Highway)",
+  "EventCategorySubCategory": "Road Traffic Incidents (on Public Highway) - RTI involving professional driver (HGV/PSV)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "184",
+  "EventSubCategory": "Scaffold over 5m",
+  "EventCategory": "Collapse or partial collapse of a scaffold over 5m high or erected over/adjacent to water",
+  "EventCategorySubCategory": "Collapse or partial collapse of a scaffold over 5m high or erected over/adjacent to water - Scaffold over 5m",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "185",
+  "EventSubCategory": "Scaffold over/adjacent to water",
+  "EventCategory": "Collapse or partial collapse of a scaffold over 5m high or erected over/adjacent to water",
+  "EventCategorySubCategory": "Collapse or partial collapse of a scaffold over 5m high or erected over/adjacent to water - Scaffold over/adjacent to water",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "186",
+  "EventSubCategory": "Scaffold/tower collapse/overturn",
+  "EventCategory": "Trapped by something collapsing/overturning",
+  "EventCategorySubCategory": "Trapped by something collapsing/overturning - Scaffold/tower collapse/overturn",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "187",
+  "EventSubCategory": "Slip, trip or fall - on uneven surface",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Slip, trip or fall - on uneven surface",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "188",
+  "EventSubCategory": "Slip, trip or fall - overgrown vegetation / trees / algae / moss",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Slip, trip or fall - overgrown vegetation / trees / algae / moss",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "189",
+  "EventSubCategory": "Slip, trip or fall - slippy /wet / icy surface",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Slip, trip or fall - slippy /wet / icy surface",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "190",
+  "EventSubCategory": "Slip, trip or fall over object",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Slip, trip or fall over object",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "191",
+  "EventSubCategory": "Slip/trip on stairs",
+  "EventCategory": "Slip, trip or fall at same level",
+  "EventCategorySubCategory": "Slip, trip or fall at same level - Slip/trip on stairs",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "192",
+  "EventSubCategory": "Sludge",
+  "EventCategory": "Accidental release of a biological agent likely to cause severe human illness or infection",
+  "EventCategorySubCategory": "Accidental release of a biological agent likely to cause severe human illness or infection - Sludge",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "193",
+  "EventSubCategory": "Smoke inhalation",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Smoke inhalation",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "194",
+  "EventSubCategory": "Sodium hypochlorite",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Sodium hypochlorite",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "195",
+  "EventSubCategory": "Static discharge",
+  "EventCategory": "Contact with electricity or an electrical discharge",
+  "EventCategorySubCategory": "Contact with electricity or an electrical discharge - Static discharge",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "196",
+  "EventSubCategory": "Stood up under something",
+  "EventCategory": "Struck something fixed or stationary",
+  "EventCategorySubCategory": "Struck something fixed or stationary - Stood up under something",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "197",
+  "EventSubCategory": "Sulphur dioxide",
+  "EventCategory": "Accidental release of any substance which may damage health",
+  "EventCategorySubCategory": "Accidental release of any substance which may damage health - Sulphur dioxide",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "198",
+  "EventSubCategory": "The failure of any closed vessel, its protective devices or of any associated pipework (other than a pipeline)",
+  "EventCategory": "Pressure Systems",
+  "EventCategorySubCategory": "Pressure Systems - The failure of any closed vessel, its protective devices or of any associated pipework (other than a pipeline)",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "199",
+  "EventSubCategory": "The tank carrying the dangerous goods is seriously damaged",
+  "EventCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods",
+  "EventCategorySubCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods - The tank carrying the dangerous goods is seriously damaged",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "200",
+  "EventSubCategory": "The tank or vehicle carrying the tank container overturns",
+  "EventCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods",
+  "EventCategorySubCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods - The tank or vehicle carrying the tank container overturns",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "201",
+  "EventSubCategory": "Trapped by moving object",
+  "EventCategory": "Hit by a moving, flying or falling object",
+  "EventCategorySubCategory": "Hit by a moving, flying or falling object - Trapped by moving object",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "202",
+  "EventSubCategory": "Unchartered service found, not damaged",
+  "EventCategory": "Damage or exposure of underground services",
+  "EventCategorySubCategory": "Damage or exposure of underground services - Unchartered service found, not damaged",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "203",
+  "EventSubCategory": "Uncontrolled release or escape of the dangerous goods being carried",
+  "EventCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods",
+  "EventCategorySubCategory": "Any incident involving a tanker or tank container used for the carriage of dangerous goods - Uncontrolled release or escape of the dangerous goods being carried",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "204",
+  "EventSubCategory": "Verbal or written/graphic",
+  "EventCategory": "Assaulted by a person",
+  "EventCategorySubCategory": "Assaulted by a person - Verbal or written/graphic",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "205",
+  "EventSubCategory": "Walked into something",
+  "EventCategory": "Struck something fixed or stationary",
+  "EventCategorySubCategory": "Struck something fixed or stationary - Walked into something",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "206",
+  "EventSubCategory": "Walked into something (OBSOLETE)",
+  "EventCategory": "Struck something fixed or stationary",
+  "EventCategorySubCategory": "Struck something fixed or stationary - Walked into something (OBSOLETE)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "207",
+  "EventSubCategory": "Welding (sparks / molten metal)",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Welding (sparks / molten metal)",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "208",
+  "EventSubCategory": "While in use",
+  "EventCategory": "Any incident in which breathing apparatus malfunctions",
+  "EventCategorySubCategory": "Any incident in which breathing apparatus malfunctions - While in use",
+  "RIDDOR": "Yes"
+  },
+  {
+  "id": "209",
+  "EventSubCategory": "Work related ill health due to cold working environments",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Work related ill health due to cold working environments",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "210",
+  "EventSubCategory": "Work related ill health due to ergonomics",
+  "EventCategory": "Occupational Health",
+  "EventCategorySubCategory": "Occupational Health - Work related ill health due to ergonomics",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "211",
+  "EventSubCategory": "Work related ill health due to Hot working environments",
+  "EventCategory": "Exposed to extreme temperatures (burns / scalds)",
+  "EventCategorySubCategory": "Exposed to extreme temperatures (burns / scalds) - Work related ill health due to Hot working environments",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "212",
+  "EventSubCategory": "Work related ill health due to noise",
+  "EventCategory": "Occupational Health",
+  "EventCategorySubCategory": "Occupational Health - Work related ill health due to noise",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "213",
+  "EventSubCategory": "Work related Ill health due to vibration",
+  "EventCategory": "Occupational Health",
+  "EventCategorySubCategory": "Occupational Health - Work related Ill health due to vibration",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "214",
+  "EventSubCategory": "Workshop - Contact with other moving mechanical components",
+  "EventCategory": "Contact with moving machinery - Workshop",
+  "EventCategorySubCategory": "Contact with moving machinery - Workshop - Workshop - Contact with other moving mechanical components",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "215",
+  "EventSubCategory": "Workshop - Contact with rotating machine parts",
+  "EventCategory": "Contact with moving machinery - Workshop",
+  "EventCategorySubCategory": "Contact with moving machinery - Workshop - Workshop - Contact with rotating machine parts",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "216",
+  "EventSubCategory": "Workshop - Drawn into machinery",
+  "EventCategory": "Contact with moving machinery - Workshop",
+  "EventCategorySubCategory": "Contact with moving machinery - Workshop - Workshop - Drawn into machinery",
+  "RIDDOR": "No"
+  },
+  {
+  "id": "217",
+  "EventSubCategory": "Workshop - Drawn into screw/belt conveyors",
+  "EventCategory": "Contact with moving machinery - Workshop",
+  "EventCategorySubCategory": "Contact with moving machinery - Workshop - Workshop - Drawn into screw/belt conveyors",
+  "RIDDOR": "No"
+  }
+]

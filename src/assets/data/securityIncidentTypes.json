@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Access control gate or door found unlocked/opened",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Access control gate or door found unlocked/opened"
+  },
+  {
+    "id": "2",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Bogus Caller",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Bogus Caller"
+  },
+  {
+    "id": "3",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Break-in – no theft",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Break-in – no theft"
+  },
+  {
+    "id": "4",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Contractor accessing company premises/systems prior to completion of security vetting",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Contractor accessing company premises/systems prior to completion of secuirty vetting"
+  },
+  {
+    "id": "5",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Contractor retained company property and/or access to premises/systems beyond contracted date.",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Contractor retained company property and/or access to premises/systems beyond contracted date."
+  },
+  {
+    "id": "6",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Criminal Damage/Vandalism (company property)",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Criminal Damage/Vandalism (company property)"
+  },
+  {
+    "id": "7",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Defective Security Asset (CCTV, Fence, Gates, Doors, Windows & Locks)",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Defective Security Asset (CCTV, Fence, Gates, Doors, Windows & Locks)"
+  },
+  {
+    "id": "8",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Employee of concern",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Employee of concern"
+  },
+  {
+    "id": "9",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Ex-employee retained company property and/or access to premises/systems beyond exit date",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Ex-employee retained company property and/or access to premises/systems beyond exit date"
+  },
+  {
+    "id": "10",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Fly-Tipping",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Fly-Tipping"
+  },
+  {
+    "id": "11",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Forgotten security pass",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Forgotten security pass"
+  },
+  {
+    "id": "12",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Loss or theft of PPE",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Loss or theft of PPE"
+  },
+  {
+    "id": "13",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Loss or Theft of Security Access Card or Key",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Loss or Theft of Security Access Card or Key"
+  },
+  {
+    "id": "14",
+    "EventReportType": "Security Incident",
+    "IncidentType": "New employee accessing company premises/systems prior to completion of security vetting",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - New employee accessing company premises/systems prior to completion of security vetting"
+  },
+  {
+    "id": "15",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Non-compliance with site access protocols (challenge visitors/sign-in etc.)",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Non-compliance with site access protocols (challenge visitors/sign-in etc.)"
+  },
+  {
+    "id": "16",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Not displaying security Pass",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Not displaying security Pass"
+  },
+  {
+    "id": "17",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Sharing security pass",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Sharing security pass"
+  },
+  {
+    "id": "18",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Suspicious individual/vehicle - company premises",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Suspicious individual/vehicle - company premises"
+  },
+  {
+    "id": "19",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Tailgating – Pedestrian",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Tailgating – Pedestrian"
+  },
+  {
+    "id": "20",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Tailgating – Vehicular",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Tailgating – Vehicular"
+  },
+  {
+    "id": "21",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Theft of company asset following break-in (non-IT)",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Theft of company asset following break-in (non-IT)"
+  },
+  {
+    "id": "22",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Theft of company asset no break-in (non-IT)",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Theft of company asset no break-in (non-IT)"
+  },
+  {
+    "id": "23",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Theft of company vehicle/plant",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Theft of company vehicle/plant"
+  },
+  {
+    "id": "24",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Theft of personal belongings",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Theft of personal belongings"
+  },
+  {
+    "id": "25",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Unauthorised Access to Site/building",
+    "SecurityCategory": "Physical",
+    "SecurityIncidentType": "Physical - Unauthorised Access to Site/building"
+  },
+  {
+    "id": "26",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Unescorted visitor",
+    "SecurityCategory": "People",
+    "SecurityIncidentType": "People - Unescorted visitor"
+  },
+  {
+    "id": "27",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Confidential commercial or personal data left on desk, printer or white board etc",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Confidential/personal data left on desk, printer or white board etc."
+  },
+  {
+    "id": "28",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Confidential commercial or personal details sent externally by mistake or unprotected (emails, USB, mobile telephone etc.)",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - confidential commercial or personal details sent externally by mistake or unprotected (emails, USB, mobile telephone etc.)"
+  },
+  {
+    "id": "29",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Inappropriate disclosure on social media",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Inappropriate disclosure on social media"
+  },
+  {
+    "id": "30",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Lost USB memory stick containing confidential commercial or personal data or information.",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - lost USB memory stick containing confidential commercial or personal data or information."
+  },
+  {
+    "id": "31",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Other",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Other"
+  },
+  {
+    "id": "32",
+    "EventReportType": "Security Non Compliance",
+    "IncidentType": "Password sharing",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Password sharing"
+  },
+  {
+    "id": "33",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Unauthorised access or misuse of company assets with respect to personal data.",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Unauthorised access or misuse of company assets with respect to personal data."
+  },
+  {
+    "id": "34",
+    "EventReportType": "Security Incident",
+    "IncidentType": "Unlocked screen/unattended equipment",
+    "SecurityCategory": "Data",
+    "SecurityIncidentType": "Data - Unlocked screen/unattended equipment"
+  }
+]

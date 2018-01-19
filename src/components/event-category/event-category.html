@@ -1,0 +1,40 @@
+<div [formGroup]="parent">
+    <div formGroupName="eventCategoryGroup">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-done-all" md="md-done-all"></ion-icon>
+                Event Category</ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>What Event Category Is Applicable?</ion-label>
+                    <ion-select class="select" formControlName="eventTypeControl" block (ionChange)="eventTypeCategoryChange($event)"
+                        [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of eventType; let i=id" [value]="item.Description">{{item.Description}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+
+                <ion-item>
+                    <ion-label stacked>What Event Sub-Category Is Applicable?</ion-label>
+                    <ion-select class="select" formControlName="eventSubTypeControl" block (ionChange)="autosave($event,'SubCategoryApplicable', 'eventSubTypeControl')"
+                        [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of eventSubType; let i=id" [value]="item.EventSubCategory">{{item.EventSubCategory}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Did This Incident Have The Potential To Cause A Serious Injury?</ion-label>
+                    <ion-select interface="popover" formControlName="potentialToCauseSeriousInjury" (ionChange)="autosave($event,'PotentialToCauseSeriousInjury', 'potentialToCauseSeriousInjury')"
+                        [disabled]="isNotEditable">
+                        <ion-option value="yes">Yes</ion-option>
+                        <ion-option value="no">No</ion-option>
+                    </ion-select>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

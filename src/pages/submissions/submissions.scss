@@ -1,0 +1,80 @@
+page-submissions {
+  .list-md{
+    margin-bottom: 100px;
+  }
+  .add {
+    font-size: 1.2em;
+    padding: 1.5em 1em !important;
+    border-radius: 5px;
+  }
+
+  .item-icon{
+    height: 20px;
+    width: 20px;
+  }
+
+  .small-date{
+    font-size: 0.9em;
+    color: lighten(#000, 60%);
+  }
+
+  .small-category{
+    font-size: 0.9em;
+    color:red;
+    float: right;
+  }
+
+
+  ion-list{
+    ion-item-sliding{
+      -webkit-box-shadow: 10px 6px 18px -5px rgba(133,133,133,1);
+      -moz-box-shadow: 10px 6px 18px -5px rgba(133,133,133,1);
+      box-shadow: 10px 6px 18px -5px rgba(133,133,133,1);
+
+      margin-bottom: 7px;
+      margin-top: 3px;
+      border-radius: 5px;
+    }
+  }
+
+  .fixed{
+
+
+    position: fixed;
+    top:10px;
+    left: 20px;
+    z-index: 100;
+  }
+
+  .relative{
+    position: relative;
+
+  }
+
+
+  .button1 {
+    width: 30%;
+    font-size: 1.4rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .button2 { 
+    width: 30%;
+    font-size: 1.4rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+        }
+
+  #nosubmissions {
+    text-align: center;
+
+  }
+
+  .letterCase{
+    t-transform:capitalize;
+  }
+
+}

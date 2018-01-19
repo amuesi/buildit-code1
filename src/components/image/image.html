@@ -1,0 +1,75 @@
+<div [formGroup]="parent">
+  <div formGroupName="imageMediaGroup">
+    <ion-card class="card-content">
+      <ion-card-header>
+        <ion-icon ios="ios-images-outline" ></ion-icon>
+        Media Attachments</ion-card-header>
+      <ion-card-content>
+
+
+        <ion-item-group>
+          <ion-grid>
+            <ion-row>
+              <ion-col align-self-start text-center>
+                <div text-center>Image 1 <br>
+                  <a ion-button block margin-bottom color="photograph" large (click)="takePhotograph1()"><span class=" large-icon"></span>
+                    <ion-icon ios="ios-camera" md="md-camera" ></ion-icon>
+                  </a>
+                </div>
+              </ion-col>
+              <ion-col align-self-center>
+                <div text-center>Image 2 <br>
+                  <a ion-button block margin-bottom color="photograph" large (click)="takePhotograph2()"><span class=" large-icon"></span>
+                    <ion-icon ios="ios-camera" md="md-camera" ></ion-icon>
+                  </a>
+                </div>
+              </ion-col>
+              <ion-col align-self-end>
+                <div text-center>Image 3 <br>
+                  <a ion-button block margin-bottom color="photograph" large (click)="takePhotograph3()"><span class=" large-icon"></span>
+                    <ion-icon ios="ios-camera" md="md-camera" ></ion-icon>
+                  </a>
+                </div>
+              </ion-col>
+              <ion-col>
+                <div text-center>Image 4 <br>
+                  <a ion-button block margin-bottom color="photograph" large (click)="takePhotograph4()"><span class=" large-icon"></span>
+                    <ion-icon ios="ios-camera" md="md-camera" ></ion-icon>
+                  </a>
+                </div>
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+
+        </ion-item-group>
+
+        <!--image preview-->
+        <ion-grid >
+          <ion-row >
+            <p>Photo preview</p>
+          </ion-row>
+          <ion-row>
+
+            <ion-col><img [src]="submissionImage1" *ngIf="submissionImage1" (click)="submissionImage_clicked($event, '1')">
+              <input type="hidden" name="image1" formControlName="image1" [(ngModel)]="submissionImage1" >
+            </ion-col>
+
+            <ion-col><img [src]="submissionImage2" *ngIf="submissionImage2" (click)="submissionImage_clicked($event, '2')">
+              <input type="hidden" name="image2" formControlName="image2" [(ngModel)]="submissionImage2" >
+            </ion-col>
+
+            <ion-col><img [src]="submissionImage3" *ngIf="submissionImage3" (click)="submissionImage_clicked($event, '3')">
+              <input type="hidden" name="image3" formControlName="image3" [(ngModel)]="submissionImage3" >
+            </ion-col>
+
+            <ion-col><img [src]="submissionImage4" *ngIf="submissionImage4" (click)="submissionImage_clicked($event, '4')">
+              <input type="hidden" name="image4" formControlName="image4" [(ngModel)]="submissionImage4" >
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+
+      </ion-card-content>
+    </ion-card>
+
+  </div>
+</div>

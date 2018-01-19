@@ -1,0 +1,20 @@
+<div [formGroup]="parent">
+    <div formGroupName="investigator">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon name="ios-person-add-outline"></ion-icon>
+                Investigator </ion-card-header>
+
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Investigating Manager
+                    </ion-label>
+                    <ion-textarea formControlName="investigatingManager" (blur)="autosave($event,'InvestigatingManager', 'investigatingManager')" [disabled]="isNotEditable"></ion-textarea>
+                </ion-item>
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

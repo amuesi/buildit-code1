@@ -1,0 +1,154 @@
+[
+    {
+  "id": "1",
+  "Description": "Accidental release of a biological agent likely to cause severe human illness or infection"
+  },
+  {
+  "id": "2",
+  "Description": "Accidental release of any substance which may damage health"
+  },
+  {
+  "id": "3",
+  "Description": "Animal"
+  },
+  {
+  "id": "4",
+  "Description": "Any incident in which breathing apparatus malfunctions"
+  },
+  {
+  "id": "5",
+  "Description": "Any incident involving a tanker or tank container used for the carriage of dangerous goods"
+  },
+  {
+  "id": "6",
+  "Description": "Assaulted by a person"
+  },
+  {
+  "id": "7",
+  "Description": "Collapse or partial collapse of a scaffold over 5m high or erected over/adjacent to water"
+  },
+  {
+  "id": "8",
+  "Description": "Collapse, overturning or failure of load-bearing parts of lifts or lifting equipment"
+  },
+  {
+  "id": "9",
+  "Description": "Contact with electricity or an electrical discharge"
+  },
+  {
+  "id": "10",
+  "Description": "Contact with moving machinery - Mobile Machinery"
+  },
+  {
+  "id": "11",
+  "Description": "Contact with moving machinery - Operational Plant"
+  },
+  {
+  "id": "12",
+  "Description": "Contact with moving machinery - Workshop"
+  },
+  {
+  "id": "13",
+  "Description": "Contact with overhead electric lines"
+  },
+  {
+  "id": "14",
+  "Description": "Damage or exposure of overhead services"
+  },
+  {
+  "id": "15",
+  "Description": "Damage or exposure of underground services"
+  },
+  {
+  "id": "16",
+  "Description": "Drowned or asphyxiated within a Confined Space"
+  },
+  {
+  "id": "17",
+  "Description": "Electrical short circuit or overload"
+  },
+  {
+  "id": "18",
+  "Description": "Escape of flammable substances - sudden uncontrolled"
+  },
+  {
+  "id": "19",
+  "Description": "Exposed to an explosion (DSEAR)"
+  },
+  {
+  "id": "20",
+  "Description": "Exposed to extreme temperatures (burns / scalds)"
+  },
+  {
+  "id": "21",
+  "Description": "Exposed to radiation"
+  },
+  {
+  "id": "22",
+  "Description": "Exposed to, or contact with harmful substance"
+  },
+  {
+  "id": "23",
+  "Description": "Failure of Lifting Equipment"
+  },
+  {
+  "id": "24",
+  "Description": "Fall from height or into void"
+  },
+  {
+  "id": "25",
+  "Description": "Hit by a moving vehicle or item of plant (on site / mobile works)"
+  },
+  {
+  "id": "26",
+  "Description": "Hit by a moving, flying or falling object"
+  },
+  {
+  "id": "27",
+  "Description": "Illness"
+  },
+  {
+  "id": "28",
+  "Description": "Insect"
+  },
+  {
+  "id": "29",
+  "Description": "N/A"
+  },
+  {
+  "id": "30",
+  "Description": "Occupational Health"
+  },
+  {
+  "id": "31",
+  "Description": "Plant"
+  },
+  {
+  "id": "32",
+  "Description": "Pressure Jetting / Vessels"
+  },
+  {
+  "id": "33",
+  "Description": "Pressure Systems"
+  },
+  {
+  "id": "34",
+  "Description": "Road Traffic Incidents (on Public Highway)"
+  },
+  {
+  "id": "35",
+  "Description": "Slip, trip or fall at same level"
+  },
+  {
+  "id": "36",
+  "Description": "Struck something fixed or stationary"
+  },
+  {
+  "id": "37",
+  "Description": "Trapped by something collapsing/overturning"
+  },
+  {
+  "id": "38",
+  "Description": "Unintended collapse of a wall or floor in a place of work"
+  }
+] 

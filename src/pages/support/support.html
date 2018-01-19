@@ -1,0 +1,82 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title>
+            Support
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+
+<ion-content class="scroll-content ">
+    <div class="bottom-pad">
+
+        <ion-card>
+            <ion-card-header>
+                <strong>Health, Safety and Wellbeing</strong>
+            </ion-card-header>
+            <ion-card-content>
+                <p>
+                    For health, safety and wellbeing queries contact: <br/>
+                    <a ion-button outline small href="mailto:SafetyNet@severntrent.co.uk" target="_system">SafetyNet@severntrent.co.uk</a>
+                    <br/> or speak to your HSW Technical Expert
+                </p>
+
+
+            </ion-card-content>
+        </ion-card>
+
+        <ion-card>
+            <ion-card-header>
+                <strong class="header2">Water Quality and Environmental Hazards</strong>
+            </ion-card-header>
+            <ion-card-content>
+                <p>
+                    For environmental queries please contact the Environment Community of Practice <br/>
+                    <br/> For non-infra water quality queries please contact the Non-Infra Water Quality Community of Practice.<br/> 
+                    <br/>For infra water quality queries please contact the Infra Water Quality Community of Practice’
+                </p>
+
+
+            </ion-card-content>
+        </ion-card>
+
+
+        <ion-card>
+            <ion-card-header>
+                <strong>Security Matters</strong>
+            </ion-card-header>
+            <ion-card-content>
+                <p>
+                    1. In an emergency, call:<br><button ion-button outline small (click)="callTelNumber('999')">999</button><br> 
+                    <br> 2. If you see anything suspicious that requires immediate reporting, speak to your line manager or call the Security Hub:<br>
+                    <button ion-button outline small (click)="callTelNumber('03456007101')">03456007101</button><br> (Please note that this is only to be used as you would the Police 101 number)<br>
+                    <br> 3. Loss of company IT equipment such as mobile phones, tablets and laptops must be reported to the IS Service Desk immediately to allow appropriate remediation to take place.<br>
+                    <button ion-button outline small (click)="callTelNumber('02477716787')">02477716787</button><br>
+                    <br>4. For all other queries and non-urgent reports email:
+                    <a ion-button outline small href="mailto:groupsecurity@severntrent.co.uk" target="_system">groupsecurity@severntrent.co.uk</a>
+                </p>
+            </ion-card-content>
+        </ion-card>
+
+
+        <ion-card>
+            <ion-card-header>
+                <strong>App functionality</strong>
+            </ion-card-header>
+            <ion-card-content>
+
+                <p>
+                    For app functionality issues contact: <br>
+                    <a ion-button outline small href="mailto:is.servicedesk@severntrent.co.uk" target="_system">IS.ServiceDesk@severntrent.co.uk</a> or:
+                    <br><button ion-button outline small (click)="callTelNumber('02477716787')">02477716787</button>
+                </p>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</ion-content>

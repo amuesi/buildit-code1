@@ -1,0 +1,44 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title>What are you reporting?</ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+
+<ion-content>
+    <ion-grid class="bottom-pad">
+        <ion-row class="imageButton">
+            <ion-col col-12>
+
+                <img src="assets/images/security-incident.png" (click)="openSecurityIncidentPage()" tappable />
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSecurityIncidentPage()">Security Incident</button>
+
+            </ion-col>
+        </ion-row>
+
+        <ion-row class="imageButton">
+            <ion-col col-12>
+                <img tappable src="assets/images/security-non-compliance.png" (click)="openSecurityNonCompliancePage()" />
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSecurityNonCompliancePage()">Security Non Compliance </button>
+
+            </ion-col>
+        </ion-row>
+
+        <ion-row class="imageButton">
+            <ion-col col-12>
+                <img tappable src="assets/images/security-good-practice.png" (click)="openSecurityGoodPracticePage()" />
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSecurityGoodPracticePage()">Security Good Practice </button>
+
+            </ion-col>
+        </ion-row>
+
+    </ion-grid>
+
+    <ion-fab right bottom>
+        <button tappable ion-fab color="secondary" (click)="faqModalSecurityOpen()" class="help"><ion-icon name="ios-help-circle-outline"></ion-icon></button>
+    </ion-fab>
+</ion-content>

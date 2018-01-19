@@ -1,0 +1,29 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            MAP
+        </ion-title>
+        <!--<ion-buttons end id="lbl_loc">-->
+            <!--<a (click)="dismissModal()">-->
+                <!--<ion-icon icon-only name="ios-close-circle-outline"></ion-icon>-->
+            <!--</a>-->
+        <!--</ion-buttons>-->
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <div id="map" #map style="height: 100%">
+    </div>
+    <ion-fab right bottom>
+        <button tappable ion-fab color="primary" (click)="loadMyLocation()"><ion-icon name="ios-locate-outline"></ion-icon></button>
+    </ion-fab>
+    <ion-list>
+        <button ion-item *ngFor="let item of sortlocations" (click)="itemSelected(item)">
+        {{ item.StreetHouse }}, {{item.District}}, {{item.City}}
+      </button>
+        <!--<ion-item *ngFor="let item of sortlocations">-->
+        <!--<h2>FunctionalLocation:{{item.FunctionalLocation}}</h2>-->
+        <!--<h3>X: {{item.X}} , Y: {{item.Y}}</h3>-->
+        <!--</ion-item>-->
+    </ion-list>
+</ion-content>

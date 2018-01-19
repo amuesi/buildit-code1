@@ -1,0 +1,23 @@
+<div [formGroup]="parent">
+    <div formGroupName="furtherInformation">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-create-outline"></ion-icon>
+                Further Information
+            </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>Have you considered, or done any of the following </ion-label>
+                  <ion-select multiple="true"  class="select" formControlName="consideredTheFollowing" block (ionChange)="autosave($event,'ConsideredTheFollowing', 'consideredTheFollowing')" [disabled]="isNotEditable">
+                    <ion-option *ngFor="let item of WellbeingActionTypes; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                  </ion-select>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>
+
+

@@ -1,0 +1,73 @@
+<ion-header>
+    <ion-navbar color="primary">
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title class="pageTitle">What are you reporting?</ion-title>
+
+    </ion-navbar>
+</ion-header>
+
+
+
+<ion-content>
+    <ion-grid class="bottom-pad">
+        <ion-row>
+            <ion-col text-center id="safetyincident">
+                <button (tap)="openSafetyIncidentPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSafetyIncidentPage()">Safety Incident</button>
+            </ion-col>
+        </ion-row>
+
+        <ion-row>
+            <ion-col text-center id="hazard">
+                <button (tap)="openHazardPage()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openHazardPage()">Hazard</button>
+            </ion-col>
+        </ion-row>
+
+        <ion-row>
+            <ion-col text-center id="positivebeahviour">
+                <button (tap)="openPositiveBehaviour()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openPositiveBehaviour()">Positive Behaviour</button>
+            </ion-col>
+        </ion-row>
+
+        <ion-row>
+            <ion-col text-center id="unsafebehaviour">
+                <button (tap)="openUnsafeBehaviour()" ion-button class="invisible-btn"></button>
+                <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openUnsafeBehaviour()">Unsafe Behaviour</button>
+            </ion-col>
+        </ion-row>
+
+        <!-- <div class="topbottom">
+            <img src="assets/images/incident.png" (tap)="openSafetyIncidentPage()" tappable />
+            <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openSafetyIncidentPage()">Safety Incident</button>
+
+        </div>
+
+        <div class="topbottom">
+            <img tappable src="assets/images/hazard.png" (tap)="openHazardPage()" />
+            <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openHazardPage()">Hazard</button>
+
+        </div> -->
+
+        <!-- <div class="topbottom">
+            <img tappable src="assets/images/positive-behaviour.png" (tap)="openPositiveBehaviour()" />
+            <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openPositiveBehaviour()">Positive Behaviour</button>
+
+        </div> -->
+
+        <!-- <div class="topbottom" style="margin-bottom:70px !important; ">
+            <img tappable src="assets/images/unsafe-behaviour.png" (tap)="openUnsafeBehaviour()" />
+            <button class="page-button" ion-button color="tertiary" style="width:100%; margin:0;margin-top: -5px;" (tap)="openUnsafeBehaviour()">Unsafe Behaviour</button>
+
+        </div> -->
+
+        <ion-fab right bottom>
+            <button tappable ion-fab color="secondary" (click)="faqSafetyModalOpen()" class="help">
+                <ion-icon name="ios-help-circle-outline"></ion-icon>
+            </button>
+        </ion-fab>
+    </ion-grid>
+</ion-content>

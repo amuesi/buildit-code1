@@ -1,0 +1,30 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappened">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help" md="md-help"></ion-icon>
+                What Happened?
+            </ion-card-header>
+            <ion-card-content>
+
+              <ion-item>
+                  <ion-label stacked><span class="invalidText1" style="color: red;">*</span> What Was The Type Of Security Concern?</ion-label>
+                      <ion-select formControlName="securityCategory" (blur)="autosave($event,'SecurityConcern', 'securityConcern')" >
+                      <ion-option value="Data">Data</ion-option>
+                      <ion-option value="People">People</ion-option>
+                      <ion-option value="Physical">Physical</ion-option>
+                  </ion-select>
+              </ion-item>
+
+
+              <ion-item>
+                <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Incident Description</ion-label>
+                <ion-textarea formControlName="incidentDescription" (blur)="autosave($event,'IncidentDescription', 'incidentDescription')" [disabled]="isNotEditable">
+                </ion-textarea>
+            </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

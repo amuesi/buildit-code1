@@ -1,0 +1,22 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappenedWellbeing">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help-circle-outline"></ion-icon> What Happened? </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span>Reason For the Conversation</ion-label>
+                    <ion-select class="select" formControlName="reasonForConversation" block (ionChange)="autosave($event,'MostApplicable', 'reasonForConversation')" [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of WellbeingActionType; let i=id" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <!--[class.l-invalid]="!parent.controls.reasonForConversation.valid && (!parent.controls.reasonForConversation.touched || isSaveSubmit)" Validation -->
+                <!-- [class.l-invalid]="!parent.controls.incidentDescription.valid && (!parent.controls.incidentDescription.touched || isSaveSubmit)"  -->
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

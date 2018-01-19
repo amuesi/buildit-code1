@@ -14,573 +14,297 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
-// @import url('https://fonts.googleapis.com/css?family=Lato');
 
-// * {
-// 	font-family: Lato;
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+{
+
+    .ios page-home .invisible-btn, .md page-home .invisible-btn {
+        width: 100%;
+        height: 70%;
+        opacity: 0;
+    }
+
+    .ios page-safety .invisible-btn, .md page-safety .invisible-btn {
+      width: 100%;
+      height: 70%;
+      opacity: 0;
+  }
+
+  .ios page-security .invisible-btn, .md page-security .invisible-btn {
+    width: 100%;
+    height: 70%;
+    opacity: 0;
+}
+
+[col-12] {
+  padding: 6px;
+}
+
+    .grid {
+      padding: 0%;
+    }
+
+}
+
+
+.cssload-circle{
+  position:relative;
+  margin:40px auto;
+  width:64px;
+  height:64px;
+  background:rgb(236,240,241);
+  border:solid 4px rgb(44,62,80);
+  border-radius:100%;
+  overflow:hidden;
+  animation: cssload-rotates 1.1s infinite linear;
+  -o-animation: cssload-rotates 1.1s infinite linear;
+  -ms-animation: cssload-rotates 1.1s infinite linear;
+  -webkit-animation: cssload-rotates 1.1s infinite linear;
+  -moz-animation: cssload-rotates 1.1s infinite linear;
+}
+.cssload-up{
+  width: 24px;
+  height: 32px;
+  left:20px;
+  overflow:hidden;
+  background:rgb(204,238,255);
+  position:absolute;
+}
+.cssload-up:before,.cssload-up:after{
+  content:"";
+  width:24px;height:24px;
+  background:rgb(236,240,241);
+  position:absolute;
+  z-index:1;
+}
+.cssload-up:before{
+  top:24px;
+  left:-14px;
+  transform:rotate(45deg);
+  -o-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+}
+.cssload-up:after{
+  top:24px; left:14px;
+  transform:rotate(45deg);
+  -o-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+}
+.cssload-innera{
+  position:relative;
+  top:12px;
+  width:24px;height:24px;
+  background:rgb(241,196,15);
+  animation: cssload-mymove 1.1s infinite linear;
+  -o-animation: cssload-mymove 1.1s infinite linear;
+  -ms-animation: cssload-mymove 1.1s infinite linear;
+  -webkit-animation: cssload-mymove 1.1s infinite linear;
+  -moz-animation: cssload-mymove 1.1s infinite linear;
+}
+.cssload-down{
+  width: 24px;
+  height: 32px;
+  left:20px;
+  top:32px;
+  overflow:hidden;
+  background:rgb(204,238,255);
+  position:absolute;
+  z-index:1;
+}
+.cssload-down:before,.cssload-down:after{
+  content:"";
+  width:24px;
+  height:32px;
+  background:rgb(236,240,241);
+  position:absolute;
+  z-index:1;
+}
+.cssload-down:before{
+  top:-20px;
+  left:-14px;
+  transform:rotate(45deg);
+  -o-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+}
+.cssload-down:after{
+  top:-20px;
+  left:19px;
+  transform:rotate(45deg);
+  -o-transform:rotate(45deg);
+  -ms-transform:rotate(45deg);
+  -webkit-transform:rotate(45deg);
+  -moz-transform:rotate(45deg);
+}
+.cssload-innerb{
+  position:relative;
+  top:32px;
+  width:24px;height:24px; background:rgb(241,196,15);
+  animation: cssload-mymoveb 1.1s infinite linear;
+  -o-animation: cssload-mymoveb 1.1s infinite linear;
+  -ms-animation: cssload-mymoveb 1.1s infinite linear;
+  -webkit-animation: cssload-mymoveb 1.1s infinite linear;
+  -moz-animation: cssload-mymoveb 1.1s infinite linear;
+}
+
+
+// @media screen and (device-aspect-ratio: 40/71) {}
+// @media screen and (device-aspect-ratio: 3/4) {}
+
+// @media
+// only screen and (max-device-width: 1136px) and (min-device-width: 960px) and (max-device-height: 640px) and (min-device-height: 560px),
+// only screen and (max-device-height: 1136px) and (min-device-height: 960px) and (max-device-width: 640px) and (min-device-width: 560px) {
+// /* iPhone only */
 // }
 
 
-// http://ionicframework.com/docs/v2/theming/
-// App Global Sass
-// --------------------------------------------------
-// Put style rules here that you want to apply globally. These
-// styles are for the entire app and not just one component.
-// Additionally, this file can be also used as an entry point
-// to import other Sass files to be included in the output CSS.
-//
-// Shared Sass variables, which can be used to adjust Ionic's
-// default Sass variables, belong in "theme/variables.scss".
-//
-// To declare rules for a specific mode, create a child rule
-// for the .md, .ios, or .wp mode classes. The mode class is
-// automatically applied to the <body> element in the app.
-@import '../theme/animations';
-@import '../theme/dark.theme';
-@import '../theme/light.theme';
-.align-center {
-	text-align: center;
+
+
+
+
+@keyframes cssload-mymove{
+  0%{top:12px;}
+  100%{top:36px;}
 }
 
-.highlight {
-	background-color: #f4f4f4;
+@-o-keyframes cssload-mymove{
+  0%{top:12px;}
+  100%{top:36px;}
 }
 
-.center {
-	display: block;
-	margin: 0 auto;
+@-ms-keyframes cssload-mymove{
+  0%{top:12px;}
+  100%{top:36px;}
 }
 
-.vertical-center {
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
+@-webkit-keyframes cssload-mymove{
+  0%{top:12px;}
+  100%{top:36px;}
 }
 
-.top-radius {
-	border-radius: 10% 10% 0 0;
+@-moz-keyframes cssload-mymove{
+  0%{top:12px;}
+  100%{top:36px;}
 }
 
-.bottom-radius {
-	border-radius: 0 0 10% 10%;
+@keyframes cssload-mymoveb{
+  0%{top:32px;}
+  90%{top:16px;}
+  100%{top:-4px;}
 }
 
-.round {
-	border-radius: 50%;
+@-o-keyframes cssload-mymoveb{
+  0%{top:32px;}
+  90%{top:16px;}
+  100%{top:-4px;}
 }
 
-.transparent-header {
-	// This is just to make the header transparent and button/icon with white color
-	.toolbar-content,
-	.back-button {
-		color: white;
-	}
-	.toolbar-background,
-	ion-navbar,
-	ion-header {
-		background: transparent !important;
-		background-color: transparent !important;
-	}
-	.header-md::after,
-	.toolbar-background-ios {
-		background-image: none;
-		border-bottom: 0;
-	}
-	.header-ios .toolbar-background-ios,
-	.footer-ios .toolbar-background-ios {
-		border: 0;
-	}
-	// ---
+@-ms-keyframes cssload-mymoveb{
+  0%{top:32px;}
+  90%{top:16px;}
+  100%{top:-4px;}
 }
 
-// right side menu
-#menu-right {
-	button {
-		padding-left: 16px;
-	}
-	ion-content {
-		background: rgba(255, 36, 36, 0.82);
-	}
-	.menu-inner {
-		width: 10vh;
-	}
-	.active-menu-item {
-		position: absolute;
-		border-top: 6px solid transparent;
-		border-bottom: 6px solid transparent;
-		border-left: 6px solid #ffffff;
-	}
-	.label {
-		display: flex;
-		align-items: center;
-	}
-	.list-md[no-lines] .item-block,
-	.list-md[no-lines] ion-item-options,
-	.list-md[no-lines] .item .item-inner,
-	.list-ios[no-lines] .item-block,
-	.list-ios[no-lines] ion-item-options,
-	.list-ios[no-lines] .item .item-inner {
-		padding: .3rem 0;
-		background: transparent;
-		color: white;
-	}
-	ion-icon {
-		line-height: 1;
-	}
+@-webkit-keyframes cssload-mymoveb{
+  0%{top:32px;}
+  90%{top:16px;}
+  100%{top:-4px;}
 }
 
-.icon-badge {
-	top: 0px;
-	right: 0px;
-	background: #FF5D5D;
-	color: white;
-	font-size: 12px;
-	position: absolute;
-	padding: 5px 8px;
-	border-radius: 15px;
+@-moz-keyframes cssload-mymoveb{
+  0%{top:32px;}
+  90%{top:16px;}
+  100%{top:-4px;}
 }
 
-// Sidemenu with avatar
-#menu-avatar {
-	.user-avatar {
-		padding: .5em;
-	}
-	h3,
-	.label {
-		color: white;
-		font-weight: bold;
-	}
-	.item {
-		background: transparent;
-	}
-	ion-content {
-		background: linear-gradient(48deg, rgba(157, 72, 173, 0.8) 0%, rgba(157, 72, 173, 0.86) 28%, rgba(0, 168, 168, 0.98) 93%, rgba(0, 168, 168, 1) 100%);
-	}
-	.menu-inner {
-		background: rgba(255, 255, 255, .3);
-	}
+@keyframes cssload-rotates{
+  0%{transform:rotate(0deg);}
+  80%{transform:rotate(0deg);}
+  100%{transform:rotate(180deg);}
 }
+
+@-o-keyframes cssload-rotates{
+  0%{-o-transform:rotate(0deg);}
+  80%{-o-transform:rotate(0deg);}
+  100%{-o-transform:rotate(180deg);}
+}
+
+@-ms-keyframes cssload-rotates{
+  0%{-ms-transform:rotate(0deg);}
+  80%{-ms-transform:rotate(0deg);}
+  100%{-ms-transform:rotate(180deg);}
+}
+
+@-webkit-keyframes cssload-rotates{
+  0%{-webkit-transform:rotate(0deg);}
+  80%{-webkit-transform:rotate(0deg);}
+  100%{-webkit-transform:rotate(180deg);}
+}
+
+@-moz-keyframes cssload-rotates{
+  0%{-moz-transform:rotate(0deg);}
+  80%{-moz-transform:rotate(0deg);}
+  100%{-moz-transform:rotate(180deg);}
+}
+
 
 // Material Design Sidemenu
 #menu-material {
-	.menu-header {
-		padding: 5px 15px;
-		background-color: #CCC;
-		//background-image: url('../assets/img/misc/material-design-background.jpg');
-		background-size: cover;
-		color: white;
-		.name {
-			font-weight: 500;
-			margin-bottom: 3px;
-		}
-		.e-mail {
-			margin-top: 0;
-			margin-bottom: 5px;
-		}
-	}
-	.user-avatar {
-		padding: .5em;
-		height: 12vh;
-	}
-	//h3,
-	//.label
-	//{
-	//	color: #999;
-	//	font-weight: 400;
-	//}
-	//ion-icon {
-	//	color: #777;
-	//}
+  .menu-header {
+    padding: 5px 15px;
+    background-image: url('../assets/images/side-menu-top-image.jpg');
+    background-size: cover;
+    color: white;
+    .name {
+      font-weight: 500;
+      margin-bottom: 3px;
+    }
+    .e-mail {
+      margin-top: 0;
+      margin-bottom: 5px;
+    }
+  }
+  .user-avatar {
+    padding: .5em;
+    height: 24vh;
+  }
+  h3,
+  .label
+  {
+    color: #999;
+    font-weight: 400;
+  }
+  ion-icon {
+    color: #777;
+  }
 }
 
 
 
 
-img {
-	max-width: 100%;
-	height: auto;
-}
-
-video, audio { 
-	width:100%;
-	max-width:100%;
-	box-sizing: border-box;
-	display: inline-block;
-}
-
-//.ion-md-home{
-//	color: green;
-//}
-//
-//.ion-md-link{
-//	color: blue;
+//img {
+//  max-width: 100%;
+//  height: auto;
 //}
 
-.spinner {
-	width: 30px;
-	height: 30px;
-	border-radius: 3px;
-	background-color: #fff700;
-	-webkit-transform: translate3d(0,0,0);
-	transform: translate3d(0,0,0);
-	margin: 200px auto 3px auto;
-	-webkit-animation: rotateplane 1s infinite ease-in-out;
-	animation: rotateplane 1s infinite ease-in-out;
-	p {
-		text-align: center;
-		line-height: 30px;
-		font-size: 1.5em;
-		color: #000000;
-		-webkit-transform: translate3d(0,0,0);
-		transform: translate3d(0,0,0);
-		-webkit-animation: rotatestar 1s infinite ease-in-out;
-		animation: rotatestar 1s infinite ease-in-out;
-	}
+video, audio {
+  width:100%;
+  max-width:100%;
+  box-sizing: border-box;
+  display: inline-block;
 }
 
-@-webkit-keyframes rotateplane {
-	0% { -webkit-transform: perspective(120px) }
-	50% { -webkit-transform: perspective(120px)}
-	100% { -webkit-transform: perspective(120px) }
-}
-@-webkit-keyframes rotatestar {
-	0% { -webkit-transform: perspective(120px) }
-	50% { -webkit-transform: perspective(120px)}
-	100% { -webkit-transform: perspective(120px) }
-}
-@keyframes rotateplane {
-	0% {
-		transform: perspective(120px) rotateX(0deg);
-		-webkit-transform: perspective(120px) rotateX(0deg);
-	} 50% {
-		  transform: perspective(120px) rotateX(-90deg);
-		  -webkit-transform: perspective(120px) rotateX(-90deg);
-	  } 100% {
-			transform: perspective(120px) rotateX(-180deg);
-			-webkit-transform: perspective(120px) rotateX(-180deg);
-		}
-}
-@keyframes rotatestar {
-	0% {
-		transform: perspective(120px) rotateX(0deg);
-		-webkit-transform: perspective(120px) rotateX(0deg);
-	}
-	50% {
-		transform: perspective(120px) rotateX(-90deg);
-		-webkit-transform: perspective(120px) rotateX(-90deg);
-	}
-	100% {
-		transform: perspective(120px) rotateX(-180deg);
-		-webkit-transform: perspective(120px) rotateX(-180deg);
-	}
+.label.label-ios{
+  white-space: normal;
 }
 
-
-.card-background-page {
-	button,ion-list,ion-item,ion-label{
-		margin: 0;
-		padding: 0;
-	}
-	ion-label{
-		white-space: normal;
-	}
-	ion-card {
-		position: relative;
-		width: 100%;
-		padding: 0;
-		margin: 0;
-
-	}
-
-
-	.card-subtitle {
-		font-size: 1.0em;
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-		text-align: left;
-		padding: 10px;
-		background: -moz-linear-gradient(top,  rgba(7,7,7,0) 0%, rgba(7,7,7,0.01) 1%, rgba(7,7,7,1) 86%, rgba(7,7,7,1) 100%); /* FF3.6-15 */
-		background: -webkit-linear-gradient(top,  rgba(7,7,7,0) 0%,rgba(7,7,7,0.01) 1%,rgba(7,7,7,1) 86%,rgba(7,7,7,1) 100%); /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to bottom,  rgba(7,7,7,0) 0%,rgba(7,7,7,0.01) 1%,rgba(7,7,7,1) 86%,rgba(7,7,7,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00070707', endColorstr='#070707',GradientType=0 ); /* IE6-9 */
-
-
-		p{
-			color: color($colors ,light);
-			font-size: 1.3rem;
-			line-height: 18px;
-		}
-
-		h2{
-			color: color($colors ,light);
-			//font-size: 1.3rem;
-			line-height: 18px;
-		}
-
-		button{
-			color: color($colors ,light);
-			padding: 10px;
-			font-size: 1rem;
-			ion-icon{
-				color: color($colors ,yellow)
-			}
-
-		}
-		.datetype{
-			color: color($colors ,maincolor);
-			font-size: 1.2rem;
-			margin-left: 15px;
-			vertical-align: -webkit-baseline-middle;
-		}
-
-	}
-
-	.list .item-block .item-inner{
-		padding: 0;
-	}
-
+.toolbar-title{
+  white-space: normal;
 }
-
-
-ion-menu{
-	background-repeat: no-repeat;
-	background-size: 100%;
-	ion-content{
-		.item{
-			background: none;
-		}
-		background-color: #CCC;
-		//background-image: url(../assets/img/bg.jpg);
-		.ListMenu{
-
-			button{
-				background: none;
-				color: #100815;
-				//color: color($colors, light) !important;
-				span{
-					padding-left: 10px !important;
-				}
-
-				item-inner{
-					background: none;
-
-				}
-
-
-			}
-		}
-
-		.menu-logo-image {
-			zoom: 0.5;
-			margin-top: 50px;
-		}
-
-		.avatarList{
-			margin: 0px 0 15px 0 !important;
-			ion-item{
-				h2{
-					color: #100815;
-					//color: color($colors, light);
-				}
-				p{
-					color: #ed1c24;
-					font-weight: 500;
-				}
-				ion-avatar{
-					img{
-						width: 60px !important;
-						height: 60px !important;
-					}
-				}
-
-			}
-
-		}
-	}
-}
-
-.item[detail-push] .item-inner,
-button.item:not([detail-none]) .item-inner,
-a.item:not([detail-none]) .item-inner{
-	background: none;
-	color: #100815;
-}
-
-.full-screen {
-	height: 100% !important;
-	margin: 0 !important;
-}
-
-.half-screen {
-	min-height: 50% !important;
-	margin: 0 !important;
-}
-
-.center-child {
-	display: -webkit-box;
-	display: -moz-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
-	-webkit-box-direction: normal;
-	-moz-box-direction: normal;
-	-webkit-box-orient: horizontal;
-	-moz-box-orient: horizontal;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
-	flex-direction: row;
-	-webkit-flex-wrap: nowrap;
-	-ms-flex-wrap: nowrap;
-	flex-wrap: nowrap;
-	-webkit-box-pack: center;
-	-moz-box-pack: center;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-align-content: stretch;
-	-ms-flex-line-pack: stretch;
-	align-content: stretch;
-	-webkit-box-align: center;
-	-moz-box-align: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-}
-
-.powered-by {
-	text-align: center;
-	bottom: 0;
-	position: absolute;
-	width: 100%;
-}
-
-.menu-image {
-	background: $primary-color !important;
-	margin-bottom: -30% !important;
-	margin-top: -10% !important;
-}
-
-.menu-image-height {
-	min-height: 150px !important;
-}
-
-.bg-light {
-	background: #F2F2F2 !important;
-}
-
-ion-list-header {
-	margin-bottom: 0 !important;
-}
-
-.bold {
-	font-weight: bold !important;
-}
-
-.center {
-	text-align: center !important;
-}
-
-.xx-large {
-	font-size: 4.2rem !important;
-}
-
-.x-large {
-	font-size: 3.2rem !important;
-}
-
-.large {
-	font-size: 2.6rem !important;
-}
-
-.medium {
-	font-size: 2.2rem !important;
-}
-
-.small {
-	font-size: 1.8rem !important;
-}
-
-.x-small {
-	font-size: 1.6rem !important;
-}
-
-@media only screen and (max-width: 320px) and (orientation: portrait) {
-	.xx-large {
-		font-size: 3.2rem !important;
-	}
-	.x-large {
-		font-size: 2.6rem !important;
-	}
-	.large {
-		font-size: 2.2rem !important;
-	}
-	.medium {
-		font-size: 1.8rem !important;
-	}
-	.small {
-		font-size: 1.6rem !important;
-	}
-	.x-small {
-		font-size: 1.4rem !important;
-	}
-}
-
-@-webkit-keyframes slidingAnimation {
-	0% {
-		transform: translate3d(0, 0, 0);
-		-webkit-transform: translate3d(0, 0, 0);
-	}
-
-	50% {
-		transform: translate3d(-70px, 0, 0);
-		-webkit-transform: translate3d(-70px, 0, 0);
-	}
-
-	100% {
-		transform: translate3d(0, 0, 0);
-		-webkit-transform: translate3d(0, 0, 0);
-	}
-}
-
-.itemSlidingAnimation {
-	-webkit-animation: slidingAnimation;
-	animation: slidingAnimation;
-	-webkit-animation-duration: 1000ms;
-	animation-duraton: 1000ms;
-}
-
-ion-col[width-22] {
-	flex: 0 0 22%;
-	max-width: 22%;
-}
-
-.scroll-hourly {
-	min-height: 70px !important;
-	background-color: #ffffff !important;
-	border-bottom: 1px solid #dedede !important;
-}
-
-.page-wrapper {
-
-	background-color:rgb(62,193,201);
-
-	padding:0 0.75em !important;
-
-	margin: 0 !important;
-	text-align: center;
-}
-.app-form {
-	padding-top : 1em;
-
-	button {
-
-		margin: 1em 0 0 0;
-
-	}
-
-}
-
-//.scroll-content {
-//	background-color: #fff !important;
-//}

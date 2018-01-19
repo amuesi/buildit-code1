@@ -1,0 +1,127 @@
+<div [formGroup]="parent">
+    <div formGroupName="personInvolved">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon name="ios-person-add-outline"></ion-icon>
+                Person Involved </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Who Was Involved?
+                    </ion-label>
+                    <ion-select interface="popover" formControlName="whoWasInvolved" (ionChange)="whoWasInvolved($event)" (ionChange)="usersWereInvolved($event)"
+                        [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of PeopleWhoWereInvolved; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <!-- <ion-item>
+                    <ion-label stacked>
+                        Employee</ion-label>
+                    <ion-input type="text" formControlName="employee"  (blur)="autosave($event,'Employee', 'employee')" [disabled]="isNotEditable"></ion-input>
+                </ion-item> -->
+
+
+                <ion-item *ngIf="selectedUsersWhoWereInvolved">
+                    <button large class="btn" type="button" large block ion-button color="lightgreen" (click)="getEmplyeeOpen()">Select Employee
+                        <ion-icon class="margin-left20" ios="ios-person-add-outline"></ion-icon>
+                    </button>
+                </ion-item>
+
+                <ion-item *ngIf="selectedUsersWhoWereInvolved">
+                    <ion-label stacked>Employee Name:</ion-label>
+                    <ion-input formControlName="employeeName" [(ngModel)]="employeeName" contenteditable="false" (blur)="autosave($event,'EmployeeName', 'employeeName')"
+                        [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item *ngIf="selectedUsersWhoWereInvolved">
+                    <ion-label stacked>
+                        Tick This Box If Your Name Does Not Appear In The Employee List</ion-label>
+                    <ion-checkbox formControlName="employeeNotOnList"></ion-checkbox>
+                </ion-item>
+
+                <ion-item *ngIf="selectedPeopleWhoWereInvolved">
+                    <ion-label stacked>
+                        Add your name here</ion-label>
+                    <ion-input type="text" formControlName="addname" (blur)="autosave($event,'AddName', 'addName')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+
+                <ion-item>
+                    <ion-label stacked>
+                        Company</ion-label>
+                    <ion-input type="text" formControlName="company" (blur)="autosave($event,'Company', 'company')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Job Title</ion-label>
+                    <ion-input type="text" formControlName="jobTitle" (blur)="autosave($event,'JobTitle', 'jobTitle')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Telephone Number</ion-label>
+                    <ion-input type="text" formControlName="telephoneNumber" (blur)="autosave($event,'TelephoneNumber', 'telephoneNumber')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Email Address</ion-label>
+                    <ion-input type="text" formControlName="emailAddress" (blur)="autosave($event,'EmailAddress', 'emailAddress')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Home Address</ion-label>
+                    <ion-input type="text" formControlName="homeAddress" (blur)="autosave($event,'HomeAddress', 'homeAddress')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        Post Code</ion-label>
+                    <ion-input type="text" formControlName="postCode" (blur)="autosave($event,'Postcode', 'postCode')" [disabled]="isNotEditable"></ion-input>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>Age: </ion-label>
+                    <ion-select interface="popover" class="select" formControlName="age" block (ionChange)="autosave($event,'Age', 'age')" [disabled]="isNotEditable">
+                        <ion-option value="Under 25">Under 25</ion-option>
+                        <ion-option value="25-35">25-35</ion-option>
+                        <ion-option value="36-45">36-45</ion-option>
+                        <ion-option value="46-55">46-55</ion-option>
+                        <ion-option value="Over 55">Over 55</ion-option>
+                    </ion-select>
+                </ion-item>
+
+
+                <ion-item>
+                    <ion-label stacked>Gender: </ion-label>
+                    <ion-select interface="popover" class="select" formControlName="gender" block (ionChange)="autosave($event,'Gender', 'gender')"
+                        [disabled]="isNotEditable">
+                        <ion-option value="male">Male</ion-option>
+                        <ion-option value="female">Female</ion-option>
+                        <ion-option value="unknown">Unknown</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>Was More Than One Person Involved: </ion-label>
+                    <ion-select interface="popover" formControlName="wasMoreThanOnePersonInvolved" (blur)="autosave($event,'WasMoreThanOnePersonInvolved', 'wasMoreThanOnePersonInvolved')"
+                        [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of vehicleAsset; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <!-- <ion-item *ngIf="selectedMoreThanOne">
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Incident Reference Number(s) Of Related Incidents</ion-label>
+                    <ion-textarea formControlName="incidentReferenceNumber" (blur)="autosave($event,'IncidentReferenceNumber', 'incidentReferenceNumber')" [disabled]="isNotEditable"></ion-textarea>
+                </ion-item> -->
+
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

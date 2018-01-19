@@ -1,0 +1,26 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappened">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help-circle-outline"></ion-icon> What Happened? </ion-card-header>
+            <ion-card-content>
+
+                <!--<ion-item>
+                    <ion-label>Reason For The Conversation </ion-label>
+                    <ion-select interface="popover" formControlName="reasonForConversation">
+                        <ion-option value="Reason 1">Reason 1</ion-option>
+                        <ion-option value="Reason 2">Reason 2</ion-option>
+                    </ion-select>
+                </ion-item>-->
+
+                <ion-item>
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Incident Description</ion-label>
+                    <ion-textarea formControlName="incidentDescription" (blur)="autosave($event,'IncidentDescription', 'incidentDescription')" [disabled]="isNotEditable">
+                    </ion-textarea>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>

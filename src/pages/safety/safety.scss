@@ -1,0 +1,88 @@
+.ios, .md page-safety {
+
+  .scroll-content {
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+    height: 100%;
+  }
+
+  ion-grid {
+
+  }
+
+  ion-row {
+    flex: 1;
+  }
+
+  ion-row.imageButton.row{
+    //margin-bottom: 50px !important;
+    //
+    //display: block;
+  }
+
+  ion-col{
+
+  }
+
+  .col.safety{
+    margin-bottom: 50px !important;
+    display: block;
+  }
+
+  .item {
+    align-items: baseline;
+  }
+
+  .topbottom{
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+
+
+
+  .toolbar-title toolbar-title-md{
+    font-size: 20px !important;
+
+  }
+
+  .content-padding {}
+  .bottom-pad {
+      padding-bottom: 60px !important;
+  }
+
+  .imageButton img {}
+  #safetyincident {
+      background: url(../assets/images/incident.png);
+      background-repeat: no-repeat;
+      background-origin: content-box;
+      max-height: 160px;
+      background-size: cover;
+      border-bottom: 5px solid white;
+  }
+  #hazard {
+      background: url(../assets/images/hazard.png);
+      background-repeat: no-repeat;
+      background-origin: content-box;
+      max-height: 160px;
+      background-size: cover;
+      border-bottom: 5px solid white;
+  }
+  #positivebeahviour {
+      background: url(../assets/images/positive-behaviour.png);
+      background-repeat: no-repeat;
+      background-origin: content-box;
+      max-height: 160px;
+      background-size: cover;
+      border-bottom: 5px solid white;
+  }
+  #unsafebehaviour {
+      background: url(../assets/images/unsafe-behaviour.png);
+      background-repeat: no-repeat;
+      background-origin: content-box;
+      max-height: 160px;
+      background-size: cover;
+      border-bottom: 5px solid white;
+  }
+
+}

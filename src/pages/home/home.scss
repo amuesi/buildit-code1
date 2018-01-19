@@ -1,0 +1,110 @@
+.ios,
+.md,
+page-home {
+    .scroll-content {
+        display: flex;
+        //   flex-flow: row wrap;
+        //  padding: 3px;
+        height: 100%;
+        //     justify-content: space-around;
+    }
+    ion-grid {
+        //padding: 0;
+        //height: 100%;
+    }
+    ion-row {
+        flex: 1;
+    }
+    .logo {
+        float: right;
+        height: 20px;
+    }
+    .help {
+        //height:  40px;
+        z-index: 9999;
+        position: fixed;
+        bottom: 4%;
+        right: 5%;
+    }
+    ion-title {}
+    .imageButton {}
+    ion-content {
+        background-color: #fcfdff;
+    }
+    .content-padding {}
+    .bottom-pad {
+        padding-bottom: 60px !important;
+    }
+    .imageButton img {}
+    #safety {
+        background: url(../assets/images/safety.png);
+        background-repeat: no-repeat;
+        background-origin: content-box;
+        max-height: 160px;
+        background-size: cover;
+        border-bottom: 5px solid white;
+    }
+    #security {
+        background: url(../assets/images/security.png);
+        background-repeat: no-repeat;
+        background-origin: content-box;
+        max-height: 160px;
+        background-size: cover;
+        border-bottom: 5px solid white;
+    }
+    #wellbeing {
+        background: url(../assets/images/wellbeing.png);
+        background-repeat: no-repeat;
+        background-origin: content-box;
+        max-height: 160px;
+        background-size: cover;
+        border-bottom: 5px solid white;
+    }
+    #waterquality {
+        background: url(../assets/images/WQEnv.png);
+        background-repeat: no-repeat;
+        background-origin: content-box;
+        max-height: 160px;
+        background-size: cover;
+        border-bottom: 5px solid white;
+    }
+    .invisible-btn {
+        width: 100%;
+        height: 100px;
+        opacity: 0;
+    }
+    .page-button {
+        opacity: 0.9;
+        border-bottom: thick solid #fff;
+    }
+    .scroll/* because the <ion-content> content is placed inside a div.scroll */
+    {
+        height: 100%;
+    }
+    .container {
+        min-height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .container>.cell-row {
+        flex: 1;
+        display: flex;
+    }
+    .cell-row>div {
+        flex: 1;
+        flex-grow: 1;
+        color: #fff;
+        /* Flex for these containers (cells) */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .container i[class^="ion-"] {
+        font-size: 90px;
+    }
+    ion-grid {
+        height: 100%;
+        justify-content: center;
+    }
+}

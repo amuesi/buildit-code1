@@ -1,0 +1,103 @@
+<div [formGroup]="parent">
+    <div formGroupName="whatHappened">
+        <ion-card class="card-content">
+            <ion-card-header>
+                <ion-icon ios="ios-help" md="md-help"></ion-icon>
+                What Happened?
+            </ion-card-header>
+            <ion-card-content>
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Was a person involved</ion-label>
+                    <ion-select interface="popover" formControlName="wasPersonInvolved" (ionChange)="PersonInvolved ($event)">
+                        <ion-option *ngFor="let item of vehicleAsset; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedpersonInvoled">
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Was Anyone Injured Or Made Unwell?</ion-label>
+                    <ion-select interface="popover" formControlName="wasAnyOneInjured" (ionChange)="WasAnyOneInjured ($event)">
+                        <ion-option *ngFor="let item of vehicleAsset; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedanyoneInjured">
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Was The Injury Work Related?</ion-label>
+                    <ion-select interface="popover" formControlName="wasInjuryWorkRelated" (ionChange)="autosave($event,'WasInjuryWorkRelated', 'wasInjuryWorkRelated')"
+                        [disabled]="isNotEditable">
+                        <ion-option value="yes">Yes</ion-option>
+                        <ion-option value="no">No</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Was Any Property/Vehicle/Asset Damaged?</ion-label>
+                    <ion-select interface="popover" formControlName="whatHappenedVehicleAsset" (ionChange)="WhatHappenedVehicleAsset ($event)">
+                        <ion-option *ngFor="let item of vehicleAsset; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedwhatHappenedVehicleAsset">
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Property/Vehicle/Asset Damage</ion-label>
+                    <ion-select multiple="true" interface="popover" formControlName="propertyVehicleDamage" (ionChange)="PropertyVehicleDamage($event)" [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of AssetType; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <!-- <ion-select interface="popover" formControlName="incidentResultedInLostTime"
+                (ionChange)="IncidentResultedInLostTime ($event)">
+                <ion-option *ngFor="let item of incidentResultedInLostTimes; let i=index" [value]="item.value">{{item.value}}</ion-option>
+            </ion-select> -->
+
+
+                <ion-item *ngIf="selectedwhatHappenedVehicleAsset">
+                    <ion-label stacked> Did Damage Occur Whilst On Company Business?</ion-label>
+                    <ion-select interface="popover" formControlName="damageCompanyBusiness" (blur)="autosave($event,'DamageCompanyBusiness', 'damageCompanyBusiness')"
+                        [disabled]="isNotEditable">
+                        <ion-option value="yes">Yes</ion-option>
+                        <ion-option value="no">No</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <!-- <ion-item *ngIf="selectedVehicleDamage">
+                    <ion-label stacked><span class="invalidText1" style="color: red;">*</span> Did Damage Occur Whilst On Company Business?</ion-label>
+                    <ion-select formControlName="damageCompanyBusiness" (blur)="autosave($event,'DamageCompanyBusiness', 'damageCompanyBusiness')" [disabled]="isNotEditable">
+                    <ion-option value ="yes">Yes</ion-option>
+                    <ion-option value ="no">No</ion-option>
+                </ion-select>
+                </ion-item> -->
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Was There Any Environmental Impact?</ion-label>
+                    <ion-select interface="popover" formControlName="environmentalImpact" (ionChange)="EnvironmentalImpact($event)" [disabled]="isNotEditable">
+                        <ion-option *ngFor="let item of vehicleAsset; let i=index" [value]="item.value">{{item.value}}</ion-option>
+                    </ion-select>
+                </ion-item>
+
+                <ion-item *ngIf="selectedenvironmentalImpact">
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> What Was The Environmental Impact?</ion-label>
+                    <ion-textarea formControlName="whatWasEnvironmentalImpact" (blur)="autosave($event,'WhatWasEnvironmentalImpact', 'whatWasEnvironmentalImpact')"
+                        [disabled]="isNotEditable">
+                    </ion-textarea>
+                </ion-item>
+
+                <ion-item>
+                    <ion-label stacked>
+                        <span class="invalidText1" style="color: red;">*</span> Incident Description</ion-label>
+                    <ion-textarea formControlName="incidentDescription" (blur)="autosave($event,'IncidentDescription', 'incidentDescription')"
+                        [disabled]="isNotEditable">
+                    </ion-textarea>
+                </ion-item>
+
+            </ion-card-content>
+        </ion-card>
+
+    </div>
+</div>
